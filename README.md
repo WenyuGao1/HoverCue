@@ -9,12 +9,12 @@
 <p align="center">Follow meetings, courses and videos with the original speech and its translation in a floating caption window. Speech recognition and translation run on your Mac.</p>
 
 <p align="center">
-  <strong><a href="https://github.com/WenyuGao1/HoverCue/releases/download/v1.0.1/HoverCue-v1.0.1-macOS-arm64.dmg">Download for Mac</a></strong>
+  <strong><a href="https://github.com/WenyuGao1/HoverCue/releases/download/v1.0.2/HoverCue-v1.0.2-macOS-arm64.dmg">Download for Mac</a></strong>
   · <a href="https://github.com/WenyuGao1/HoverCue/releases/latest">Release notes</a>
   · <a href="README.zh-CN.md">简体中文</a>
 </p>
 
-![HoverCue v1.0.1 running on macOS, showing audio and language controls and the built-in bilingual caption preview](docs/images/en/main.png)
+![HoverCue v1.0.2 running on macOS, showing audio and language controls and the built-in bilingual caption preview](docs/images/en/main-v1.0.2.png)
 
 ## See HoverCue in action
 
@@ -24,7 +24,7 @@ Choose the microphone, one Mac app, or all system audio. Set the spoken and tran
   <tr>
     <td width="50%" valign="top">
       <strong>Floating caption controls</strong><br>
-      <a href="docs/images/en/appearance.png"><img src="docs/images/en/appearance.png" width="460" alt="HoverCue caption appearance controls with a bilingual preview"></a><br>
+      <a href="docs/images/en/appearance-v1.0.2.png"><img src="docs/images/en/appearance-v1.0.2.png" width="460" alt="HoverCue caption appearance controls with a bilingual preview"></a><br>
       Adjust text size, colors and glass appearance. Revisit recent caption pairs in the floating window.
     </td>
     <td width="50%" valign="top">
@@ -59,7 +59,7 @@ Choose the microphone, one Mac app, or all system audio. Set the spoken and tran
   </tr>
 </table>
 
-*Captured from HoverCue v1.0.1 running on macOS. The captions are the app’s built-in preview. The history page shows the initial empty state.*
+*Screenshots taken on macOS. The main window and caption appearance use the v1.0.2 landscape. The captions are built in, and the history page shows its initial empty state.*
 
 ## Download and use
 

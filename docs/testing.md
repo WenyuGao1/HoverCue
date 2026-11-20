@@ -1,6 +1,6 @@
 # Verification · 验证记录
 
-The GPLv3 source candidate was verified on 20 November 2026 on Apple silicon using macOS 27.2.1 and Xcode 27.2. The documented verification command is:
+HoverCue 1.0.2 (Build 30) was verified on 20 November 2026 on Apple silicon using macOS 27.2.1 and Xcode 27.2. The documented verification command is:
 
 ```sh
 ./Scripts/verify_release.sh
@@ -14,7 +14,8 @@ The GPLv3 source candidate was verified on 20 November 2026 on Apple silicon usi
 | Local Release code signature | Passed strict verification |
 | Signed entitlements | Exactly matched the four declared entitlement keys |
 | Release binary libraries | All link paths resolve to macOS system locations |
-| README previews | Rendered from built-in, synthetic caption samples in both languages |
+| Restored preview artwork | Built-in PNG matched the installed reference and the DMG byte for byte. Its embedded Content Credentials passed signature and content hash validation. |
+| README previews | English and Chinese main window and caption appearance captured from the running v1.0.2 app. |
 
 ## Manual coverage still open · 待补的手动验收
 

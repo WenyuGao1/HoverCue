@@ -9,12 +9,12 @@
 <p align="center">开会、听课或看视频时，在屏幕上同时看原文和译文。语音识别和翻译在 Mac 上完成。</p>
 
 <p align="center">
-  <strong><a href="https://github.com/WenyuGao1/HoverCue/releases/download/v1.0.1/HoverCue-v1.0.1-macOS-arm64.dmg">下载 Mac 安装包</a></strong>
+  <strong><a href="https://github.com/WenyuGao1/HoverCue/releases/download/v1.0.2/HoverCue-v1.0.2-macOS-arm64.dmg">下载 Mac 安装包</a></strong>
   · <a href="https://github.com/WenyuGao1/HoverCue/releases/latest">发布说明</a>
   · <a href="README.md">English</a>
 </p>
 
-![HoverCue v1.0.1 在 macOS 上运行的主窗口，显示音源、语言设置和应用内置的双语字幕预览](docs/images/zh-CN/main.png)
+![HoverCue v1.0.2 在 macOS 上运行的主窗口，显示音源、语言设置和应用内置的双语字幕预览](docs/images/zh-CN/main-v1.0.2.png)
 
 ## 功能与界面
 
@@ -24,7 +24,7 @@
   <tr>
     <td width="50%" valign="top">
       <strong>悬浮字幕外观</strong><br>
-      <a href="docs/images/zh-CN/appearance.png"><img src="docs/images/zh-CN/appearance.png" width="460" alt="HoverCue 字幕外观设置与双语预览"></a><br>
+      <a href="docs/images/zh-CN/appearance-v1.0.2.png"><img src="docs/images/zh-CN/appearance-v1.0.2.png" width="460" alt="HoverCue 字幕外观设置与双语预览"></a><br>
       调节字体大小、颜色和玻璃外观，也可以在悬浮窗里回看最近的双语字幕。
     </td>
     <td width="50%" valign="top">
@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-*以上为 HoverCue v1.0.1 在 macOS 上的实拍。字幕来自应用内置预览，历史页显示初次使用时的空白状态。*
+*实拍自 macOS。主窗口和字幕外观页显示 v1.0.2 的山湖底图。字幕来自内置预览，历史页显示初次使用时的空白状态。*
 
 ## 下载和使用
 
