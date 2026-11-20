@@ -4,6 +4,8 @@ HoverCue is a native macOS app that turns audio from a selected app, all system 
 
 [简体中文](README.zh-CN.md) · [Privacy](docs/privacy.md) · [Architecture](docs/architecture.md) · [Verification](docs/testing.md) · [Dependency review](THIRD_PARTY_NOTICES.md)
 
+> Official HoverCue releases are available free of charge from this repository. Third-party distributors must not present their releases as official or imply approval or endorsement by the HoverCue project. [Official downloads](https://github.com/WenyuGao1/HoverCue/releases/latest)
+
 ![HoverCue showing sample English and Simplified Chinese captions](docs/images/hovercue-en.jpg)
 
 ## What it does

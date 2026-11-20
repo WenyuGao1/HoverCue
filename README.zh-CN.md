@@ -4,6 +4,8 @@ HoverCue 是一款原生 macOS 实时双语字幕工具。它可处理指定应�
 
 [English](README.md) · [隐私说明](docs/privacy.md) · [技术架构](docs/architecture.md) · [验证记录](docs/testing.md) · [依赖与授权](THIRD_PARTY_NOTICES.md)
 
+> HoverCue 官方版在本仓库免费提供。第三方发布者不得冒充官方发布，也不得暗示其版本获得 HoverCue 项目的认可或背书。 [官方下载](https://github.com/WenyuGao1/HoverCue/releases/latest)
+
 ![HoverCue 显示英语和简体中文示例字幕](docs/images/hovercue-zh-CN.jpg)
 
 ## 功能
