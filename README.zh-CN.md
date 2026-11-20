@@ -1,28 +1,81 @@
-# HoverCue
+<p align="center">
+  <img src="LocalDualCaption/Assets.xcassets/AppIcon.appiconset/AppIcon-128@2x.png" width="78" alt="HoverCue icon">
+</p>
 
-HoverCue 是一款原生 macOS 实时双语字幕工具。它可处理指定应用、全部系统音频或麦克风输入，把原文和译文显示在悬浮窗口里。语音识别和翻译通过 Apple 框架在本机运行。
+<h1 align="center">HoverCue</h1>
 
-[English](README.md) · [隐私说明](docs/privacy.md) · [技术架构](docs/architecture.md) · [验证记录](docs/testing.md) · [依赖与授权](THIRD_PARTY_NOTICES.md)
+<p align="center"><strong>Mac 上的实时双语悬浮字幕</strong></p>
 
-> HoverCue 官方版在本仓库免费提供。第三方发布者不得冒充官方发布，也不得暗示其版本获得 HoverCue 项目的认可或背书。 [官方下载](https://github.com/WenyuGao1/HoverCue/releases/latest)
+<p align="center">开会、听课或看视频时，在屏幕上同时看原文和译文。语音识别和翻译在 Mac 上完成。</p>
 
-![HoverCue 显示英语和简体中文示例字幕](docs/images/hovercue-zh-CN.jpg)
+<p align="center">
+  <strong><a href="https://github.com/WenyuGao1/HoverCue/releases/download/v1.0.1/HoverCue-v1.0.1-macOS-arm64.dmg">下载 Mac 安装包</a></strong>
+  · <a href="https://github.com/WenyuGao1/HoverCue/releases/latest">发布说明</a>
+  · <a href="README.md">English</a>
+</p>
 
-## 功能
+![HoverCue 主界面旁的中英双语悬浮字幕，使用虚构示例](docs/images/hovercue-zh-CN.jpg)
 
-- 在悬浮窗口同时显示原文与译文。
-- 支持低延迟翻译，并可在兼容的 Mac 上使用上下文增强。
-- 通过自定义术语规则保留原词或指定译法。
-- 可用 macOS 系统音色朗读稳定译文。
-- 手动开启并确认相关参与者已知晓且同意后，可在本机保存和导出文字历史。兼容机型还可在本机生成双语总结。
+## 功能与界面
 
-## 系统要求
+可以选麦克风、指定的 Mac 应用或全部系统音频。设置原文和译文语言后即可开启字幕。支持英语、简体及繁体中文、德语、西班牙语、法语、意大利语、日语、韩语和葡萄牙语。具体可用的语言组合取决于 macOS 版本及语言资源。
 
-- 搭载 Apple 芯片、运行 macOS 26 或更新版本的 Mac。
-- 低延迟翻译策略和术语控制需要 macOS 26.4 或更新版本。上下文增强还需要可用的 Apple 智能和受支持的语言组合。
-- 已验证的构建工具链为 Xcode 27.2。新版 SDK 接口在运行时有系统版本检查。工程只使用 Apple 框架，无外部依赖包。
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>悬浮字幕外观</strong><br>
+      <a href="docs/images/zh-CN/appearance.jpg"><img src="docs/images/zh-CN/appearance.jpg" width="460" alt="HoverCue 字幕外观设置与双语预览"></a><br>
+      调节字体大小、颜色和玻璃外观，也可以在悬浮窗里回看最近的双语字幕。
+    </td>
+    <td width="50%" valign="top">
+      <strong>两种翻译模式</strong><br>
+      <a href="docs/images/zh-CN/translation.jpg"><img src="docs/images/zh-CN/translation.jpg" width="460" alt="HoverCue 设置显示低延迟和上下文增强翻译模式"></a><br>
+      低延迟模式适合跟上讲话。在支持 Apple 智能的 Mac 上，上下文增强可以参考前面几句。
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>自定义术语</strong><br>
+      <a href="docs/images/zh-CN/terminology.jpg"><img src="docs/images/zh-CN/terminology.jpg" width="460" alt="HoverCue 术语页展示保留原词与指定译法"></a><br>
+      保留人名、缩写和专业词，也可以按语言方向指定固定译法。
+    </td>
+    <td width="50%" valign="top">
+      <strong>译文朗读</strong><br>
+      <a href="docs/images/zh-CN/voice.jpg"><img src="docs/images/zh-CN/voice.jpg" width="460" alt="HoverCue 朗读与声音设置"></a><br>
+      为译文语言选择已安装的 macOS 系统音色，自动朗读完成的译文。
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>可选的本地历史</strong><br>
+      <a href="docs/images/zh-CN/history.jpg"><img src="docs/images/zh-CN/history.jpg" width="460" alt="HoverCue 翻译历史展示虚构的电池试验记录和双语总结"></a><br>
+      征得参与者同意后可保存、回看和导出双语文字，兼容的 Mac 还能在本地生成双语总结。
+    </td>
+    <td width="50%" valign="top">
+      <strong>全程在本机处理</strong><br>
+      <a href="docs/images/zh-CN/privacy.jpg"><img src="docs/images/zh-CN/privacy.jpg" width="460" alt="HoverCue 隐私说明展示音频和可选文字历史的处理方式"></a><br>
+      语音识别和翻译都在 Mac 上进行，音频不保存、不上传。文字历史每次启动默认关闭。
+    </td>
+  </tr>
+</table>
 
-## 构建和使用
+*截图使用演示字幕和虚构的翻译记录。*
+
+## 下载和使用
+
+1. 在搭载 **Apple 芯片**、运行 **macOS 26 或更新版本**的 Mac 上下载[安装包](https://github.com/WenyuGao1/HoverCue/releases/latest)。
+2. 打开 DMG，把 HoverCue 拖进“应用程序”，再打开。首次打开若被系统拦截，请看[发布页里的打开方法](https://github.com/WenyuGao1/HoverCue/releases/latest)。
+3. 选择音源和双语方向，按系统提示授权，并准备所需的语言资源。macOS 首次下载资源时可能需要联网。
+
+按 **⌥⌘C** 开始或停止字幕，按 **⌥⌘O** 显示或隐藏悬浮窗。系统音频权限在 **系统设置 → 隐私与安全性 → 屏幕与系统音频录制**。选择浏览器作为音源时，会处理该浏览器多个标签页的音频。只有明确选择麦克风音源或主动申请授权后，应用才会请求麦克风权限。
+
+低延迟翻译和术语控制需要 **macOS 26.4 或更新版本**。上下文增强还需要 Apple 智能和受支持的语言组合。上下文增强不可用时，应用会回到系统翻译。
+
+> HoverCue 官方版在本仓库免费提供。第三方发布者不得冒充官方发布，也不得暗示其版本获得 HoverCue 项目的认可或背书。
+
+## 从源码构建
+
+工程只使用 Apple 框架，无外部依赖包。已验证的构建工具链为 **Xcode 27.2**。
 
 ```sh
 git clone https://github.com/WenyuGao1/HoverCue.git
@@ -30,7 +83,7 @@ cd HoverCue
 open LocalDualCaption.xcodeproj
 ```
 
-在 Xcode 选择 **LocalDualCaption** 和 **My Mac**，然后选择 **Product → Run**。也可以从终端构建并打开应用：
+在 Xcode 选择 **LocalDualCaption** 和 **My Mac**，然后选择 **Product → Run**。也可以从终端构建并打开应用。
 
 ```sh
 xcodebuild -project LocalDualCaption.xcodeproj -scheme LocalDualCaption \
@@ -39,32 +92,22 @@ xcodebuild -project LocalDualCaption.xcodeproj -scheme LocalDualCaption \
 open DerivedData/Build/Products/Debug/HoverCue.app
 ```
 
-本地构建使用开发签名。如果电脑上已装有另一份 HoverCue，首次试运行时请确认打开的是刚构建的版本。
-
-在 HoverCue 中选择原文和译文语言，按提示准备缺少的语言资源。首次下载资源时 macOS 可能需要联网。选择音源并授予系统要求的权限后，即可开始字幕。按 **⌥⌘C** 开始或停止字幕，按 **⌥⌘O** 显示或隐藏悬浮窗。
-
-系统音频权限在 **系统设置 → 隐私与安全性 → 屏幕与系统音频录制** 管理。音源筛选以应用为单位，选择浏览器会处理该浏览器其他标签页的声音。只有明确选择麦克风音源或主动申请授权后，应用才请求麦克风权限。
-
-## 验证
-
-在仓库根目录运行：
+本地构建使用开发签名。如果 Mac 上已装有另一份 HoverCue，请确认打开的是刚构建的版本。
 
 ```sh
 ./Scripts/verify_release.sh
 ```
 
-脚本检查本地化资源，运行 macOS 单元测试，分析并构建 Release 版本，再验证生成应用的本地签名和权限。系统翻译集成测试可能需要提前安装 Apple 提供的语言资源。真实音频和首次授权可通过手动运行应用来验证。
+验证脚本检查本地化资源，运行 macOS 单元测试，分析并构建 Release 版本，再核验签名和权限。系统翻译集成测试可能需要提前安装 Apple 提供的语言资源。
 
-## 技术架构
-
-ScreenCaptureKit 采集所选应用或系统音频，麦克风走 Apple 的音频输入接口。有界字幕流水线将音频送入本机语音识别，再调用 Apple Translation 或可选的 Foundation Models 上下文增强。悬浮窗显示双语结果，译文朗读和用户主动开启的 SQLite 文字历史各走独立流程。 [架构与源码位置](docs/architecture.md)
+[技术架构](docs/architecture.md) · [隐私说明](docs/privacy.md) · [验证记录](docs/testing.md) · [依赖与素材说明](THIRD_PARTY_NOTICES.md)
 
 ## 反馈
 
-欢迎在 GitHub Issues 报告问题。请提供 macOS 和 HoverCue 版本、语言组合、音源类型，以及使用公开或虚构素材的复现步骤。请将真实音频、字幕、译文、导出记录和会议截图留在本机。
+报告问题时请注明 macOS 与 HoverCue 版本、语言组合和音源类型，并用演示素材给出复现步骤。请把真实音频、字幕、译文、导出记录和会议截图留在本机。 [GitHub Issues](https://github.com/WenyuGao1/HoverCue/issues)
 
 ## 许可证
 
-版权 © 2026 Wenyu Gao。本版本的 HoverCue 源码和原创项目素材采用 [GNU 通用公共许可证第三版](LICENSE)，SPDX 标识为 `GPL-3.0-only`。允许学习、修改、商用和分发。分发受此许可证约束的修改版时，须遵守 GPLv3，包括按许可证要求向接收者提供对应源码。此前的 `v1.0.0` 已以 MIT 发布，旧版沿用当时附带的许可。
+版权 © 2026 Wenyu Gao。HoverCue 源码和原创项目素材采用 [GNU 通用公共许可证第三版](LICENSE)，标识为 `GPL-3.0-only`。允许学习、修改、商用和分发。分发受此许可证约束的修改版时，须按许可证要求向接收者提供对应源码。
 
-Apple 系统框架及系统模型由 Apple 单独提供，适用各自条款。 [依赖与素材说明](THIRD_PARTY_NOTICES.md)
+旧版 `v1.0.0` 沿用当时发布的 MIT 许可。Apple 系统框架及系统模型由 Apple 单独提供，适用各自条款。 [依赖与素材说明](THIRD_PARTY_NOTICES.md)
