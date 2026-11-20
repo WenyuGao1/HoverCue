@@ -14,6 +14,8 @@
   · <a href="README.md">English</a>
 </p>
 
+![HoverCue v1.0.1 在 macOS 上运行的主窗口，显示音源、语言设置和应用内置的双语字幕预览](docs/images/zh-CN/main.png)
+
 ## 功能与界面
 
 可以选麦克风、指定的 Mac 应用或全部系统音频。设置原文和译文语言后即可开启字幕。支持英语、简体及繁体中文、德语、西班牙语、法语、意大利语、日语、韩语和葡萄牙语。具体可用的语言组合取决于 macOS 版本及语言资源。
@@ -22,42 +24,42 @@
   <tr>
     <td width="50%" valign="top">
       <strong>悬浮字幕外观</strong><br>
-      <a href="docs/images/zh-CN/appearance.jpg"><img src="docs/images/zh-CN/appearance.jpg" width="460" alt="HoverCue 字幕外观设置与双语预览"></a><br>
+      <a href="docs/images/zh-CN/appearance.png"><img src="docs/images/zh-CN/appearance.png" width="460" alt="HoverCue 字幕外观设置与双语预览"></a><br>
       调节字体大小、颜色和玻璃外观，也可以在悬浮窗里回看最近的双语字幕。
     </td>
     <td width="50%" valign="top">
       <strong>两种翻译模式</strong><br>
-      <a href="docs/images/zh-CN/translation.jpg"><img src="docs/images/zh-CN/translation.jpg" width="460" alt="HoverCue 设置显示低延迟和上下文增强翻译模式"></a><br>
+      <a href="docs/images/zh-CN/translation.png"><img src="docs/images/zh-CN/translation.png" width="460" alt="HoverCue 设置显示低延迟和上下文增强翻译模式"></a><br>
       低延迟模式适合跟上讲话。在支持 Apple 智能的 Mac 上，上下文增强可以参考前面几句。
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>自定义术语</strong><br>
-      <a href="docs/images/zh-CN/terminology.jpg"><img src="docs/images/zh-CN/terminology.jpg" width="460" alt="HoverCue 术语页展示保留原词与指定译法"></a><br>
+      <a href="docs/images/zh-CN/terminology.png"><img src="docs/images/zh-CN/terminology.png" width="460" alt="HoverCue 术语页展示保留原词与指定译法"></a><br>
       保留人名、缩写和专业词，也可以按语言方向指定固定译法。
     </td>
     <td width="50%" valign="top">
       <strong>译文朗读</strong><br>
-      <a href="docs/images/zh-CN/voice.jpg"><img src="docs/images/zh-CN/voice.jpg" width="460" alt="HoverCue 朗读与声音设置"></a><br>
+      <a href="docs/images/zh-CN/voice.png"><img src="docs/images/zh-CN/voice.png" width="460" alt="HoverCue 朗读与声音设置"></a><br>
       为译文语言选择已安装的 macOS 系统音色，自动朗读完成的译文。
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>可选的本地历史</strong><br>
-      <a href="docs/images/zh-CN/history.jpg"><img src="docs/images/zh-CN/history.jpg" width="460" alt="HoverCue 翻译历史展示虚构的电池试验记录和双语总结"></a><br>
+      <a href="docs/images/zh-CN/history.png"><img src="docs/images/zh-CN/history.png" width="460" alt="HoverCue 翻译历史显示保存关闭、没有已保存记录的初次使用状态"></a><br>
       征得参与者同意后可保存、回看和导出双语文字，兼容的 Mac 还能在本地生成双语总结。
     </td>
     <td width="50%" valign="top">
       <strong>全程在本机处理</strong><br>
-      <a href="docs/images/zh-CN/privacy.jpg"><img src="docs/images/zh-CN/privacy.jpg" width="460" alt="HoverCue 隐私说明展示音频和可选文字历史的处理方式"></a><br>
+      <a href="docs/images/zh-CN/privacy.png"><img src="docs/images/zh-CN/privacy.png" width="268" alt="HoverCue 隐私说明展示音频和可选文字历史的处理方式"></a><br>
       语音识别和翻译都在 Mac 上进行，音频不保存、不上传。文字历史每次启动默认关闭。
     </td>
   </tr>
 </table>
 
-*图集是根据 HoverCue v1.0.1 界面生成的演示预览，使用示例字幕和虚构的翻译记录。*
+*以上为 HoverCue v1.0.1 在 macOS 上的实拍。字幕来自应用内置预览，历史页显示初次使用时的空白状态。*
 
 ## 下载和使用
 

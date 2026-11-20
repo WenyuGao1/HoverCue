@@ -14,6 +14,8 @@
   · <a href="README.zh-CN.md">简体中文</a>
 </p>
 
+![HoverCue v1.0.1 running on macOS, showing audio and language controls and the built-in bilingual caption preview](docs/images/en/main.png)
+
 ## See HoverCue in action
 
 Choose the microphone, one Mac app, or all system audio. Set the spoken and translated languages, then start captions. HoverCue offers English, Chinese (Simplified and Traditional), German, Spanish, French, Italian, Japanese, Korean and Portuguese. Exact language combinations depend on macOS and the language resources installed.
@@ -22,42 +24,42 @@ Choose the microphone, one Mac app, or all system audio. Set the spoken and tran
   <tr>
     <td width="50%" valign="top">
       <strong>Floating caption controls</strong><br>
-      <a href="docs/images/en/appearance.jpg"><img src="docs/images/en/appearance.jpg" width="460" alt="HoverCue caption appearance controls with a bilingual preview"></a><br>
+      <a href="docs/images/en/appearance.png"><img src="docs/images/en/appearance.png" width="460" alt="HoverCue caption appearance controls with a bilingual preview"></a><br>
       Adjust text size, colors and glass appearance. Revisit recent caption pairs in the floating window.
     </td>
     <td width="50%" valign="top">
       <strong>Two translation modes</strong><br>
-      <a href="docs/images/en/translation.jpg"><img src="docs/images/en/translation.jpg" width="460" alt="HoverCue settings showing low-latency and contextual translation modes"></a><br>
+      <a href="docs/images/en/translation.png"><img src="docs/images/en/translation.png" width="460" alt="HoverCue settings showing low-latency and contextual translation modes"></a><br>
       Use low latency to keep up with speech or let contextual enhancement consider recent sentences on supported Macs.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>Custom terminology</strong><br>
-      <a href="docs/images/en/terminology.jpg"><img src="docs/images/en/terminology.jpg" width="460" alt="HoverCue terminology rules with example original terms and a fixed translation"></a><br>
+      <a href="docs/images/en/terminology.png"><img src="docs/images/en/terminology.png" width="460" alt="HoverCue terminology rules with example original terms and a fixed translation"></a><br>
       Keep names, acronyms and technical terms as written, or supply a preferred translation for each language pair.
     </td>
     <td width="50%" valign="top">
       <strong>Spoken translations</strong><br>
-      <a href="docs/images/en/voice.jpg"><img src="docs/images/en/voice.jpg" width="460" alt="HoverCue voice settings with options for spoken translations"></a><br>
+      <a href="docs/images/en/voice.png"><img src="docs/images/en/voice.png" width="460" alt="HoverCue voice settings with options for spoken translations"></a><br>
       Read completed translations aloud. Choose an installed macOS voice for the target language.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>Optional local history</strong><br>
-      <a href="docs/images/en/history.jpg"><img src="docs/images/en/history.jpg" width="460" alt="HoverCue history showing a sample battery test record and bilingual summary"></a><br>
+      <a href="docs/images/en/history.png"><img src="docs/images/en/history.png" width="460" alt="HoverCue history before saving is enabled, with no saved sessions"></a><br>
       Save and export bilingual text after everyone agrees. Supported Macs can generate summaries on device.
     </td>
     <td width="50%" valign="top">
       <strong>On-device processing</strong><br>
-      <a href="docs/images/en/privacy.jpg"><img src="docs/images/en/privacy.jpg" width="460" alt="HoverCue privacy information showing how audio and optional text history are handled"></a><br>
+      <a href="docs/images/en/privacy.png"><img src="docs/images/en/privacy.png" width="268" alt="HoverCue privacy information showing how audio and optional text history are handled"></a><br>
       Speech recognition and translation run on your Mac. Audio is never saved or uploaded.
     </td>
   </tr>
 </table>
 
-*The gallery shows rendered HoverCue v1.0.1 interface previews with sample captions and a synthetic translation history.*
+*Captured from HoverCue v1.0.1 running on macOS. The captions are the app’s built-in preview. The history page shows the initial empty state.*
 
 ## Download and use
 
