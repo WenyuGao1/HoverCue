@@ -14,8 +14,6 @@
   · <a href="README.zh-CN.md">简体中文</a>
 </p>
 
-![HoverCue's audio and language controls beside floating English and Chinese captions with sample text](docs/images/hovercue-en.jpg)
-
 ## See HoverCue in action
 
 Choose the microphone, one Mac app, or all system audio. Set the spoken and translated languages, then start captions. HoverCue offers English, Chinese (Simplified and Traditional), German, Spanish, French, Italian, Japanese, Korean and Portuguese. Exact language combinations depend on macOS and the language resources installed.
@@ -59,7 +57,7 @@ Choose the microphone, one Mac app, or all system audio. Set the spoken and tran
   </tr>
 </table>
 
-*Screenshots use sample captions and a synthetic translation history.*
+*The gallery shows rendered HoverCue v1.0.1 interface previews with sample captions and a synthetic translation history.*
 
 ## Download and use
 
