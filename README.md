@@ -14,6 +14,8 @@
   · <a href="README.zh-CN.md">简体中文</a>
 </p>
 
+**Before installing.** HoverCue needs an Apple silicon Mac running macOS 26 or later. macOS may block the first launch because this build is locally signed and has not been notarized by Apple. [First launch and permissions](#download-and-use)
+
 ![HoverCue v1.0.2 running on macOS, showing audio and language controls and the built-in bilingual caption preview](docs/images/en/main-v1.0.2.png)
 
 ## See HoverCue in action
@@ -63,11 +65,17 @@ Choose the microphone, one Mac app, or all system audio. Set the spoken and tran
 
 ## Download and use
 
-1. Download the [Mac installer](https://github.com/WenyuGao1/HoverCue/releases/latest) on an **Apple silicon Mac running macOS 26 or later**.
-2. Open the DMG, drag HoverCue to **Applications**, then open the app. The [release page](https://github.com/WenyuGao1/HoverCue/releases/latest) explains how to open this locally signed build if macOS prompts you.
-3. Choose an audio source and language pair. Grant the required macOS permissions and prepare missing language resources. macOS may need internet access for the initial download.
+1. **Install and open HoverCue.** Download the DMG, drag HoverCue to **Applications**, and try opening it there. [Official download](https://github.com/WenyuGao1/HoverCue/releases/latest)
+2. **If macOS blocks the initial launch.** Confirm you downloaded the DMG from the official release above. After attempting to open the app, go to **System Settings → Privacy & Security**, scroll down, select **Open Anyway**, and confirm. [Apple’s instructions](https://support.apple.com/en-us/102445)
+3. **Grant access for the audio you want to use.** Choose your audio source and languages in **Live captions**. Then go to **Settings → Permissions and offline models** in HoverCue, click **Allow** next to the permissions you need, and follow the macOS prompt.
 
-Press **⌥⌘C** to start or stop captions and **⌥⌘O** to show or hide the floating window. System audio permission is under **System Settings → Privacy & Security → Screen & System Audio Recording**. App audio selection includes all audio from the selected app, including other tabs in a browser. HoverCue requests microphone permission when you explicitly select a microphone source or request access.
+   - **Speech Recognition** is required for all audio sources. If you previously declined it, enable HoverCue under **System Settings → Privacy & Security → Speech Recognition**.
+   - **Screen & System Audio Recording** is required for **All System Audio** or audio from a single app. In macOS, enable HoverCue under **System Settings → Privacy & Security → Screen & System Audio Recording**. HoverCue receives audio only and captures no screen images. If macOS asks, quit and reopen HoverCue.
+   - **Microphone** is needed only when using a microphone as the source. Grant it in HoverCue’s settings or when macOS prompts you after you select a microphone and start captions. If you previously declined it, enable HoverCue under **System Settings → Privacy & Security → Microphone**.
+
+4. **Prepare the languages and start captions.** If the speech or translation model is missing, choose **Download required models** in **Settings → Permissions and offline models**. macOS may need internet access to download the selected language resources. Once the app shows **Ready for offline captions**, return to **Live captions** and click **Start Captions**. The audio and translation are processed on your Mac.
+
+Press **⌥⌘C** to start or stop captions and **⌥⌘O** to show or hide the floating window. When you select a browser as the source, HoverCue receives audio from all of its tabs.
 
 Low-latency translation and terminology controls require **macOS 26.4 or later**. Contextual enhancement also requires Apple Intelligence and a supported language pair. HoverCue falls back to system translation when contextual enhancement is unavailable.
 
