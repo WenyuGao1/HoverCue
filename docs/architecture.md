@@ -29,8 +29,4 @@ The Xcode project uses the macOS SDK and has no Swift package resolution step. m
 
 Xcode 工程直接使用 macOS SDK，无需解析 Swift 软件包。语音和翻译资源的下载由 macOS 管理，Apple 智能功能取决于硬件和系统配置。设置与可选历史保存在用户的应用容器中，源码不包含示例数据库或真实录音。
 
-To regenerate the original preview artwork from its source, run this from the repository root with Xcode selected:
-
-```sh
-swift Scripts/render_preview_background.swift LocalDualCaption/Assets.xcassets/OverlayPreviewLandscape.imageset/OverlayPreviewLandscape.png
-```
+The app bundles its preview landscape as `OverlayPreviewLandscape.png` in the Xcode asset catalog. See the [asset provenance note](../THIRD_PARTY_NOTICES.md).

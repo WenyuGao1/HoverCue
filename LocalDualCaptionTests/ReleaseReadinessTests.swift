@@ -52,7 +52,7 @@ final class ReleaseReadinessTests: XCTestCase {
         XCTAssertEqual(info["CFBundleExecutable"] as? String, "$(EXECUTABLE_NAME)")
         XCTAssertEqual(info["CFBundleVersion"] as? String, "$(CURRENT_PROJECT_VERSION)")
 
-        XCTAssertEqual(occurrenceCount("CURRENT_PROJECT_VERSION = 29;", in: project), 2)
+        XCTAssertEqual(occurrenceCount("CURRENT_PROJECT_VERSION = 30;", in: project), 2)
         XCTAssertEqual(
             occurrenceCount("PRODUCT_BUNDLE_IDENTIFIER = \(appBundleIdentifier);", in: project),
             2

@@ -69,8 +69,8 @@ done
 
 test "$(defaults read "${app_path}/Contents/Info" CFBundleDisplayName)" = "HoverCue"
 test "$(defaults read "${app_path}/Contents/Info" CFBundleIdentifier)" = "com.wenyugao.hovercue"
-test "$(defaults read "${app_path}/Contents/Info" CFBundleShortVersionString)" = "1.0"
-test "$(defaults read "${app_path}/Contents/Info" CFBundleVersion)" = "29"
+test "$(defaults read "${app_path}/Contents/Info" CFBundleShortVersionString)" = "1.0.2"
+test "$(defaults read "${app_path}/Contents/Info" CFBundleVersion)" = "30"
 test ! -e "${app_path}/Contents/Frameworks"
 
 print "HoverCue release verification passed: ${app_path}"
