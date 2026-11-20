@@ -1,0 +1,360 @@
+"After both selected models show “installed”, quit and reopen the app if macOS asks, turn off Wi‑Fi, play a video in the selected source language, select that application, and start captions." = "兩個所選模型都顯示「已安裝」後，如果 macOS 提示，請結束並重新開啟應用程式。關閉 Wi‑Fi，播放所選來源語言的影片，選擇對應的應用程式，然後開始字幕。";
+"All System Audio" = "所有系統音訊";
+
+"App language" = "應用程式語言";
+"Application filters operate at the application-process level." = "音訊來源篩選會依應用程式程序生效。";
+"Audio source" = "音訊來源";
+"Captions" = "字幕";
+"Capture" = "擷取";
+"checking" = "檢查中";
+"Dark" = "深色";
+"denied" = "已拒絕";
+"downloadable" = "可下載";
+"downloading" = "下載中";
+"Error" = "錯誤";
+"error" = "錯誤";
+"General" = "一般";
+"Glass appearance" = "玻璃外觀";
+"Glass opacity" = "玻璃不透明度";
+"granted" = "已授權";
+"Hide Overlay" = "隱藏浮動字幕";
+"High quality" = "高品質";
+"High Transparency" = "高通透";
+"installed" = "已安裝";
+"Light" = "淺色";
+"Listening" = "聆聽中";
+"Live bilingual captions" = "即時雙語字幕";
+"Low latency" = "低延遲";
+"Model changes apply when captions next start. High quality uses Apple Intelligence when available and may be slower." = "模型切換將在下次開始字幕時生效。高品質模式會在可用時使用 Apple Intelligence，速度可能較慢。";
+"Move Overlay to Current Screen" = "將浮動字幕移到目前螢幕";
+"Move to Current Screen" = "移到目前螢幕";
+"notDetermined" = "未確定";
+"Offline test" = "離線測試";
+"On-device only" = "僅在裝置端處理";
+"Open System Settings" = "開啟系統設定";
+"Original caption color" = "原文字幕顏色";
+"Original caption font size" = "原文字幕字級";
+"Overlay" = "浮動字幕";
+"Overlay Preview" = "浮動視窗預覽";
+"Permissions and offline models" = "權限與離線模型";
+"Prepare offline models" = "準備離線模型";
+"Prepare the selected source-language speech model first." = "請先準備所選來源語言的語音模型。";
+"Prepare the selected translation model first." = "請先準備所選翻譯模型。";
+"Preparing" = "準備中";
+"Private by design" = "以隱私為本的設計";
+"Terminology — one term per line" = "術語——每行一個詞條";
+"Quit" = "結束";
+"Recognition and translation" = "辨識與翻譯";
+"Recognizing" = "辨識中";
+"Refresh running applications" = "重新整理執行中的應用程式";
+"Refresh status" = "重新整理狀態";
+"Request speech permission" = "要求語音辨識權限";
+"Request system-audio permission" = "要求系統音訊權限";
+"Restore default vocabulary" = "還原預設詞彙";
+"restricted" = "受限制";
+"Screen & System Audio Recording" = "螢幕與系統音訊錄製";
+"Screen & System Audio Recording permission is not granted." = "尚未授予螢幕與系統音訊錄製權限。";
+"Selected translation model" = "所選翻譯模型";
+"Settings" = "設定";
+"Show Overlay" = "顯示浮動字幕";
+"Simplified" = "簡體";
+"Source Chinese script" = "來源中文書寫方式";
+"Source and target languages must be different." = "來源語言和目標語言必須不同。";
+"Source language" = "來源語言";
+"Source speech model" = "來源語言語音模型";
+"Speech Recognition" = "語音辨識";
+"Speech Recognition permission is not granted." = "尚未授予語音辨識權限。";
+"Speech Recognition permission is required before the local model can be prepared." = "準備本機模型前，需要先授予語音辨識權限。";
+"Speech variety" = "語音地區";
+"Start Captions" = "開始字幕";
+"Status:" = "狀態：";
+"Stop Captions" = "停止字幕";
+"Stopped" = "已停止";
+"Swap languages" = "交換語言";
+"Target Chinese script" = "目標中文書寫方式";
+"Target language" = "目標語言";
+"The selected language pair is not supported by the on-device translation model." = "裝置端翻譯模型不支援所選語言組合。";
+"The selected offline translation model is not prepared." = "所選離線翻譯模型尚未準備完成。";
+"The system could not normalize the Chinese translation." = "系統無法統一中文翻譯的字體。";
+"The system translation returned an unexpected target language." = "系統翻譯傳回了非預期的目標語言。";
+"Traditional" = "繁體";
+"Translated caption color" = "譯文字幕顏色";
+"Translated caption font size" = "譯文字幕字級";
+"Translating" = "翻譯中";
+"Translation model" = "翻譯模型";
+"Translation unavailable" = "暫時無法翻譯";
+"Typography" = "字體";
+"unsupported" = "不支援";
+"Waiting for source-language audio…" = "正在等待來源語言音訊…";
+"Window height" = "視窗高度";
+"Window width" = "視窗寬度";
+"Caption display" = "字幕顯示";
+"Transcription and translation" = "同時顯示轉錄與翻譯";
+"Transcription only" = "僅顯示轉錄";
+"Translation only" = "僅顯示翻譯";
+"Percentage unavailable from macOS" = "macOS 未提供百分比";
+"⌥⌘C Start/Stop  ·  ⌥⌘O Overlay" = "⌥⌘C 開始/停止  ·  ⌥⌘O 浮動字幕";
+"Permissions" = "權限";
+"Offline models" = "離線模型";
+"Granted" = "已授權";
+"Allow" = "允許";
+"Permission Required" = "需要權限";
+"Open Settings" = "打開設定";
+"Speech model" = "語音模型";
+"Installed" = "已安裝";
+"Not installed" = "未安裝";
+"Checking" = "檢查中";
+"Downloading" = "下載中";
+"Unsupported" = "不受支援";
+"Download failed" = "下載失敗";
+"Download required models" = "下載所需模型";
+"Try Again" = "再試一次";
+"Ready for offline captions" = "離線字幕已準備就緒";
+"How to test offline" = "如何測試離線功能";
+"Languages" = "語言";
+"Speech region" = "語音地區";
+"Overlay appearance" = "浮動字幕外觀";
+"Appearance" = "外觀";
+"About terminology" = "關於術語";
+"Add names, acronyms, product names, and uncommon terms—one per line." = "加入人名、縮寫、產品名稱和不常見的術語——每行一個。";
+"When captions next start, up to 200 entries are provided to on-device speech recognition as contextual hints." = "下次開始字幕時，最多 200 個詞彙會作為上下文提示提供給裝置端語音辨識。";
+"These hints may improve source recognition, but they do not force replacements or control translation. Entries stay on this Mac." = "這些提示可能提升原文辨識準確度，但不會強制取代或控制翻譯。詞彙只會儲存在這部 Mac 上。";
+"System audio only. No screen images or microphone. Nothing is uploaded, recorded, or saved." = "僅處理系統音訊。不擷取螢幕影像，也不使用麥克風。任何內容都不會上傳、錄音或儲存。";
+"Live captions and translations may contain errors. For important content, verify against the original audio." = "即時字幕與翻譯可能包含錯誤。對於重要內容，請對照原始音訊核對。";
+"macOS groups system-audio access under “Screen & System Audio Recording”. HoverCue registers audio only." = "macOS 將系統音訊存取歸入「螢幕與系統音訊錄製」權限；HoverCue 只註冊音訊輸出。";
+"Model downloads are managed by macOS and may require internet the first time. HoverCue itself has no network-client permission." = "模型下載由 macOS 管理，首次可能需要連線。HoverCue 本身沒有網路用戶端權限。";
+"If macOS asks you to restart after a permission change, quit and reopen HoverCue." = "如果 macOS 在權限變更後要求重新啟動，請結束並重新開啟 HoverCue。";
+"Privacy Policy" = "隱私權政策";
+"Done" = "完成";
+
+"HoverCue processes system audio, speech recognition, captions, and translations only on this Mac. Live content stays in memory." = "HoverCue 僅在這台 Mac 上處理系統音訊、語音辨識、字幕和翻譯。即時內容只保留在記憶體中。";
+"System audio only" = "僅系統音訊";
+"System Default Microphone" = "系統預設麥克風";
+"Read Translation Automatically" = "自動朗讀譯文";
+"Automatic Reading On" = "自動朗讀已開啟";
+"Reads each stable translation through the current system audio output." = "透過目前的系統音訊輸出朗讀每段穩定譯文。";
+"Bluetooth or wired headphones are recommended when using microphone input and automatic reading." = "使用麥克風輸入和自動朗讀時，建議使用藍牙或有線耳機。";
+
+"Microphone access is requested only after you select a microphone source or explicitly allow it." = "只有在您選擇麥克風來源或明確點選允許後，才會要求麥克風權限。";
+"Microphone" = "麥克風";
+"Microphone permission is not granted." = "尚未授予麥克風權限。";
+"No installed system voice is available for the target language." = "目標語言沒有已安裝的系統朗讀聲音。";
+"The system audio input changed. Stop and restart captions to use the current microphone." = "系統音訊輸入已變更。請停止並重新開始字幕，以使用目前的麥克風。";
+"No system-default microphone is available." = "沒有可用的系統預設麥克風。";
+
+"User-selected audio source" = "使用者選擇的音訊來源";
+"HoverCue processes system audio or a selected microphone only when you select that source. It does not capture screen pixels, screenshots, or video." = "HoverCue 只會在您選擇相應來源時處理系統音訊或所選麥克風。它不會擷取螢幕像素、截圖或影片。";
+"HoverCue captures system audio output only. It does not capture screen pixels, screenshots, video, or microphone input." = "HoverCue 只擷取系統音訊輸出，不擷取螢幕像素、截圖或影片，也不使用麥克風輸入。";
+
+"No accounts or tracking" = "沒有帳號或追蹤";
+"HoverCue has no accounts, analytics, advertising, or tracking." = "HoverCue 不包含帳號、分析、廣告或追蹤功能。";
+"Settings stored locally" = "設定儲存於本機";
+
+"Apple-managed language resources" = "Apple 管理的語言資源";
+"Speech and translation resources are managed by Apple and may be downloaded by macOS on demand. HoverCue has no network-client permission." = "語音與翻譯資源由 Apple 管理，macOS 可能會視需要下載。HoverCue 沒有網路用戶端權限。";
+"Playback voice" = "播放音色";
+"No installed voice" = "沒有已安裝的聲音";
+"Premium" = "高級";
+"Enhanced" = "增強";
+"Standard" = "標準";
+"Each timbre uses its highest-quality installed version for the target language." = "每個音色都使用目標語言中已安裝的最高品質版本。";
+"Reads every stable translation in order and gradually speeds up when playback falls behind." = "依序朗讀每條穩定譯文，並在播放落後時逐步加速。";
+"Complete reading never silently skips queued translations. Playback may remain behind the original audio." = "完整朗讀不會靜默跳過已排隊的譯文，播放進度可能落後於原聲。";
+"Microphones" = "麥克風";
+"System Audio" = "系統音訊";
+"Selected Microphone (Unavailable)" = "所選麥克風（無法使用）";
+"Refresh audio sources" = "重新整理音訊來源";
+"The selected audio source is no longer available." = "所選音訊來源已無法使用。";
+"The selected microphone is no longer available." = "所選麥克風已無法使用。";
+"No microphone input is available." = "沒有可用的麥克風輸入。";
+"Unable to read available microphones." = "無法讀取可用麥克風。";
+
+"Live captions" = "即時字幕";
+"Navigation" = "導覽";
+"Audio and languages" = "音訊與語言";
+"Reading and voice" = "朗讀與聲音";
+
+/* Sidebar navigation and main-window accent */
+"Caption appearance" = "字幕外觀";
+"Terminology" = "術語";
+"Choose your audio and languages, then start captions." = "選擇聲音來源與語言，即可開始字幕。";
+"Adjust the look of your floating captions." = "調整浮動字幕的樣式與排版。";
+"Choose how translated captions are read aloud." = "選擇譯文朗讀的聲音與方式。";
+"Help speech recognition with names and specialist terms." = "加入人名與專業術語，輔助語音辨識。";
+"Personalize HoverCue and manage on-device resources." = "個人化設定與本機資源管理。";
+"Menu theme color" = "選單主題色";
+"Applies to menus and controls. Caption colors stay unchanged." = "套用至選單與控制項，不影響字幕顏色。";
+"Follow System" = "跟隨系統";
+"Blue" = "藍色";
+"Purple" = "紫色";
+"Pink" = "粉紅色";
+"Red" = "紅色";
+"Orange" = "橙色";
+"Yellow" = "黃色";
+"Green" = "綠色";
+"Graphite" = "石墨色";
+
+"Permission required" = "需要授權";
+"Go to Settings" = "前往設定";
+
+"Light Pink" = "淡粉紅色";
+
+"Examples for %@ — one term per line" = "範例（%@）——每行一個詞彙";
+
+"Keep original wording" = "保留原文";
+
+"Specify translations" = "指定譯法";
+
+"Keep terms unchanged or choose their translations." = "保留詞彙原文，或指定它們的譯法。";
+
+"Rules apply to this language direction when captions next start." = "規則僅用於目前的語言方向，下次開始字幕時生效。";
+
+"Specified translations take priority when the same term appears in both boxes." = "同一個原詞出現在兩欄時，優先使用指定譯法。";
+
+"Matches ignore capitalization and prefer longer phrases. Common words may have different meanings in context." = "比對不區分大小寫，優先比對較長的詞組。普通詞在不同語境中可能有不同含義。";
+
+"Up to 200 entries per box; original terms up to 120 characters, translations up to 240." = "每欄最多 200 條；原詞最多 120 個字元，譯法最多 240 個字元。";
+
+"Rules stay on this Mac. Examples are not saved as rules." = "規則僅儲存在這台 Mac 上。範例不會儲存為規則。";
+
+"One term per line. Matching terms stay unchanged in the translation." = "每行一個詞。符合的詞會在譯文中保持原樣。";
+
+"One rule per line: original -> translation." = "每行一條：原詞 -> 指定譯法。";
+
+"Previous recognition hints" = "之前的辨識提示詞";
+
+"These entries only help recognition and do not control translation." = "這些詞彙僅協助辨識，不控制譯法。";
+
+"Invalid or duplicate entries on lines %@ are not applied." = "第 %@ 行的項目格式無效或重複，不會套用。";
+
+"Examples: %@ -> %@" = "範例：%@ -> %@";
+
+"Translation terminology requires macOS 26.4 or later." = "翻譯術語規則需要 macOS 26.4 或以上版本。";
+
+"The translation model did not preserve a terminology rule. This translation was not displayed." = "翻譯模型未能完整保留術語規則，此條譯文未顯示。";
+
+"This sentence exceeded the terminology safety limit. This translation was not displayed." = "本句超出了術語處理的安全上限，此條譯文未顯示。";
+
+/* Audio source guidance */
+"Microphone: Picks up speech and surrounding sounds through the selected microphone." = "麥克風：擷取所選麥克風周圍的聲音，如說話聲和環境聲。";
+"System audio: Captures sound directly from apps on your Mac, without using the microphone." = "系統音訊：直接擷取電腦中 App 播放的聲音，不透過麥克風收取周圍環境聲。";
+
+/* Audio source organization and per-language voice preferences. */
+"Other audio sources" = "其他音訊來源";
+"Selected Application (Unavailable)" = "所選 App（無法使用）";
+"%@ (Unavailable)" = "%@（無法使用）";
+"Your preferred voice is unavailable. Another installed voice is being used." = "偏好的聲音暫時無法使用，目前使用另一種已安裝的聲音。";
+
+/* Optional local translation history — Build 18. */
+"Translation history" = "翻譯記錄";
+"Save translation history" = "儲存翻譯記錄";
+"History ready for new captions" = "已準備記錄新字幕";
+"Saving text history" = "正在儲存文字記錄";
+"Enable translation history?" = "開啟翻譯記錄？";
+"Everyone informed and agreed — enable" = "已告知並獲得同意，開啟";
+"Review, export, or delete text saved with permission." = "檢視、匯出或刪除經同意儲存的文字。";
+"Local text history" = "本機文字記錄";
+"No translation history" = "尚無翻譯記錄";
+"Session" = "對話";
+"Choose a session" = "選擇一段對話";
+"Saved sessions" = "已儲存的對話";
+"Export TXT" = "匯出 TXT";
+"Delete" = "刪除";
+"Clear all" = "全部清除";
+"Dismiss" = "關閉提示";
+"Cancel" = "取消";
+"Translation failed" = "翻譯失敗";
+"Translation incomplete" = "翻譯未完成";
+"Previous page" = "上一頁";
+"Next page" = "下一頁";
+"Delete this history?" = "刪除此記錄？";
+"Clear all history?" = "清除全部記錄？";
+"Original" = "原文";
+"Translation" = "譯文";
+"On-device processing" = "裝置端處理";
+"Optional local text history" = "可選的本機文字記錄";
+"Before recording or exporting, make sure everyone involved knows and agrees. History is saved on this Mac." = "記錄或匯出前，請確保所有相關參與者已知悉並同意。記錄將儲存在這部 Mac 上。";
+"Off by default on every app launch. Turning it off keeps existing history; audio is never saved." = "每次開啟 App 時預設關閉。關閉後保留既有記錄；一律不儲存音訊。";
+"Confirm that everyone involved knows and agrees to recording and export. Only new stable sentences will be saved. Audio is never saved." = "請確認已告知所有相關參與者，並獲得記錄及匯出的同意。僅儲存開啟後新確認的句子，不儲存音訊。";
+"Enable history after obtaining permission, then start captions. Existing history remains available after recording is turned off." = "獲得同意後開啟記錄，再開始字幕。關閉記錄後，既有記錄仍可檢視。";
+"This cannot be undone. Exported files are not deleted." = "此操作無法復原。已匯出的檔案不會刪除。";
+"Recording will stop and all saved sessions will be deleted. Exported files are not deleted." = "記錄將停止，全部已儲存的對話將被刪除。已匯出的檔案不會刪除。";
+"Deleting history does not remove files you already exported. Storage is limited to 100 MB and 1,000 sessions." = "刪除記錄不會刪除已匯出的檔案。記錄儲存上限為 100 MB、1,000 段對話。";
+"History could not be saved. Recording has stopped; live captions continue." = "無法儲存記錄。記錄已停止，即時字幕繼續運作。";
+"History reached its safety limit. Recording has stopped. Delete older history to free space." = "記錄達到容量或佇列上限，已停止記錄。請刪除舊記錄以釋出空間。";
+"A history entry exceeded its safety limit. Recording has stopped." = "某筆記錄超過長度上限，已停止記錄。";
+"History could not be opened. Existing files have been kept." = "無法開啟記錄。既有檔案已保留。";
+"History could not be deleted. Please try again." = "無法刪除記錄，請再試一次。";
+"History exported. Files saved to a synced folder may be synced by your system." = "記錄已匯出。儲存在同步資料夾中的檔案可能由系統同步。";
+"History could not be exported. Your existing file has not been replaced." = "無法匯出記錄。原有檔案未被取代。";
+"Audio, recognition, and translation stay on this Mac. Text history is off by default and can be saved and exported only when you enable it." = "音訊、辨識及翻譯均在這部 Mac 上處理。文字記錄預設關閉，只有主動開啟後才儲存並可手動匯出。";
+"HoverCue processes audio, recognition, translation, and optional spoken translation on this Mac. Audio is never saved or uploaded." = "HoverCue 在這部 Mac 上處理音訊、語音辨識、翻譯及可選譯文朗讀。音訊一律不儲存、不上傳。";
+"Text history is off at every app launch. After you confirm everyone is informed and agrees, new stable original text and translations can be saved locally and exported manually. You can delete saved history at any time." = "每次開啟 App 時文字記錄預設關閉。確認所有相關參與者知悉並同意後，可在本機儲存新確認的原文與譯文，並手動匯出。你可以隨時刪除已儲存的記錄。";
+"App settings and terminology are saved in UserDefaults. Optional text history is stored separately in the app's local container, excluded from automatic backup. Exports go only to the location you choose; synced folders may sync them." = "App 設定及術語儲存在 UserDefaults。可選文字記錄另存於 App 的本機容器中，並排除自動備份。匯出僅寫入你選擇的位置；同步資料夾可能同步這些檔案。";
+"No screen images are captured." = "不擷取螢幕畫面。";
+
+/* Automatic on-device history summaries. */
+"Summary queued. It will run when live captions are stopped." = "摘要已排入佇列，將在即時字幕停止後產生。";
+"Creating a title and bilingual summary on this Mac…" = "正在此 Mac 上產生標題和雙語摘要…";
+"AI-generated summary. Check important details against the full transcript." = "此摘要由 AI 產生，請對照完整記錄核實重要細節。";
+"This Mac does not support the local Apple Intelligence model. Your full history is available." = "此 Mac 不支援本機 Apple Intelligence 模型，您仍可查看完整歷史記錄。";
+"Enable Apple Intelligence in System Settings to create local summaries. Your full history is available." = "請在系統設定中開啟 Apple Intelligence，以產生本機摘要。您仍可查看完整歷史記錄。";
+"Apple’s local model is not ready. Summaries will retry when it becomes available." = "Apple 的本機模型尚未就緒，可用後將重試產生摘要。";
+"Apple’s local model does not support this session’s languages. Your full history is available." = "Apple 的本機模型不支援此記錄的語言，您仍可查看完整歷史記錄。";
+"A summary could not be created. It will retry after the next app launch. Your full history is available." = "暫時無法產生摘要，將在下次啟動應用程式後重試。您仍可查看完整歷史記錄。";
+"There is not enough meaningful text to summarize. Your full history is available." = "可供摘要的有效文字不足，您仍可查看完整歷史記錄。";
+"AI summary" = "AI 內容摘要";
+"Full transcript" = "完整對話記錄";
+"Some entries are incomplete. The summary uses only available text." = "部分項目不完整，摘要僅根據已儲存的文字。";
+"A bilingual AI summary is not available yet. The full transcript follows." = "雙語 AI 摘要尚不可用，以下為完整對話記錄。";
+"When history is enabled, titles and bilingual summaries are created automatically on this Mac after captions stop, when Apple Intelligence is available." = "開啟歷史後，若 Apple Intelligence 可用，即時字幕停止時會自動在此 Mac 上產生標題和雙語摘要。";
+"Confirm that everyone involved knows and agrees to local text recording, AI summaries and export. Only new stable sentences will be saved. Audio is never saved." = "請確認所有參與者已知悉並同意本機文字記錄、AI 摘要及匯出。僅儲存開啟後的新穩定句子，絕不儲存音訊。";
+
+"The AI summary did not match the selected languages and was not displayed. It will retry after the next app launch. Your full history is available." = "AI 摘要未符合所選語言，已暫停顯示。下次啟動應用程式後將重試，您仍可查看完整歷史記錄。";
+
+"Concise" = "簡潔";
+"Detailed" = "詳細";
+"Main topic and core conclusions, in a short summary." = "簡要總結主要話題與核心結論。";
+"Overview, key points, reasons, decisions and open questions." = "包含概述、主要重點、原因、決定與尚未解決的問題。";
+"More context by topic, including stated reasons, differences, figures and next steps." = "依話題保留更多背景，以及對話中明確提到的原因、分歧、數據與後續安排。";
+"Default summary detail" = "預設總結層級";
+"Summary detail" = "總結層級";
+"Applies to new sessions. Each saved session can use a different summary detail." = "適用於新對話。每筆已儲存的歷史可單獨選擇總結層級。";
+"Legacy summary" = "舊版總結";
+"This summary was created by an earlier version. Choose a detail level to create a new one from the full transcript." = "這份總結由舊版本產生。選擇總結層級，即可根據完整原文產生新的總結。";
+"Showing saved summary:" = "目前顯示已儲存的總結：";
+"The summary level could not be changed. Existing summaries have been kept." = "無法變更總結層級。既有總結已保留。";
+"The selected summary is not ready. The full transcript follows." = "所選層級的總結尚未就緒。以下為完整原文。";
+
+/* Summary source and local processing. */
+"Summaries are generated on this Mac using Apple Intelligence. Bilingual content is processed locally. Check important details against the full transcript." = "摘要使用 Apple Intelligence 在本機產生，雙語內容均在本機處理。重要細節請對照完整記錄核實。";
+
+"Before enabling history, make sure everyone involved knows and agrees." = "開啟前，請確保所有參與者已知悉並同意。";
+"Learn about history and privacy" = "瞭解歷史記錄與隱私";
+"History is saved on this Mac. Exports go only to the location you choose." = "歷史記錄儲存在這部 Mac 上，匯出檔案僅儲存至您選擇的位置。";
+"Generated with Apple Intelligence · On-device" = "由 Apple 智慧生成 · 本機處理";
+"About AI summaries" = "關於 AI 摘要";
+
+"Contextual enhancement" = "上下文增強";
+"Contextual enhancement requires macOS 26.4 or later. System translation will be used." = "上下文增強需要 macOS 26.4 或以上版本，將使用系統翻譯。";
+"This Mac cannot run contextual enhancement. System translation will be used." = "此 Mac 無法執行上下文增強，將使用系統翻譯。";
+"Enable Apple Intelligence in System Settings for contextual enhancement. System translation will be used." = "請在系統設定中開啟 Apple Intelligence 以使用上下文增強，目前將使用系統翻譯。";
+"Apple’s local model is not ready for contextual enhancement. System translation will be used." = "Apple 本機模型尚未準備好用於上下文增強，將使用系統翻譯。";
+"Apple’s local model does not support this language pair for contextual enhancement. System translation will be used." = "Apple 本機模型不支援此語言組合的上下文增強，將使用系統翻譯。";
+"Contextual enhancement · On-device" = "上下文增強 · 本機處理";
+"Contextual enhancement paused for this session; using system translation." = "本次字幕已暫停上下文增強，正在使用系統翻譯。";
+"Using system translation for this sentence." = "目前句子正在使用系統翻譯。";
+"Contextual enhancement uses Apple Intelligence on this Mac to translate each sentence with up to four recent source sentences. It may be slower; system translation is used if it is unavailable, times out, or falls behind." = "上下文增強使用這部 Mac 上的 Apple Intelligence，參考最近最多四句原文翻譯目前句子。速度可能較慢；模型無法使用、逾時或跟不上時會使用系統翻譯。";
+"Context is held only in bounded memory and cleared when captions stop. It does not enable history or save audio. Only the final translation is displayed, read aloud, and saved when history is enabled." = "上下文僅在有限的記憶體空間中暫存，停止字幕後清除。不會因此開啟歷史或儲存音訊。僅顯示、朗讀最終譯文，並僅在歷史開啟後儲存。";
+"Contextual enhancement unavailable; using system translation." = "上下文增強無法使用，正在使用系統翻譯。";
+
+/* Description of the selected translation mode. */
+"Uses Apple system translation, prioritizing response speed." = "使用 Apple 系統翻譯，優先提升回應速度。";
+"Uses Apple system high-quality translation, with Apple Intelligence when available." = "使用 Apple 系統高品質翻譯，可用時由 Apple 智慧支援。";
+"Uses Apple Intelligence on this Mac to translate with recent source context." = "使用本機 Apple 智慧，參考近期原文翻譯目前句子。";
+
+"Back to latest" = "回到最新";
+
+"Recent captions" = "近期字幕";
+
+"Model changes apply when captions next start." = "模型切換將在下次開始字幕時生效。";

@@ -1,0 +1,4 @@
+"CFBundleDisplayName" = "HoverCue";
+"NSScreenCaptureUsageDescription" = "O HoverCue lê apenas áudio do sistema sem capturar o ecrã. O áudio nunca é guardado nem enviado. O histórico é opcional e está desativado por predefinição.";
+"NSSpeechRecognitionUsageDescription" = "O HoverCue usa reconhecimento local para legendas. O áudio nunca é guardado nem enviado. O histórico é opcional e está desativado por predefinição.";
+"NSMicrophoneUsageDescription" = "O HoverCue usa o microfone apenas após a sua seleção ou autorização explícita. O áudio nunca é guardado nem enviado. O histórico é opcional e está desativado por predefinição.";

@@ -1,0 +1,360 @@
+"After both selected models show “installed”, quit and reopen the app if macOS asks, turn off Wi‑Fi, play a video in the selected source language, select that application, and start captions." = "選択した両方のモデルが「インストール済み」になったら、macOSの指示に従ってアプリを終了して再度開きます。Wi‑Fiをオフにし、選択した原文言語の動画を再生して、そのアプリを選択してから字幕を開始してください。";
+"All System Audio" = "すべてのシステムオーディオ";
+
+"App language" = "アプリの言語";
+"Application filters operate at the application-process level." = "アプリのフィルタはプロセス単位で動作します。";
+"Audio source" = "オーディオソース";
+"Captions" = "字幕";
+"Capture" = "キャプチャ";
+"checking" = "確認中";
+"Dark" = "ダーク";
+"denied" = "拒否";
+"downloadable" = "ダウンロード可能";
+"downloading" = "ダウンロード中";
+"Error" = "エラー";
+"error" = "エラー";
+"General" = "一般";
+"Glass appearance" = "ガラスの外観";
+"Glass opacity" = "ガラスの不透明度";
+"granted" = "許可済み";
+"Hide Overlay" = "フローティング字幕を隠す";
+"High quality" = "高品質";
+"High Transparency" = "高透明度";
+"installed" = "インストール済み";
+"Light" = "ライト";
+"Listening" = "聞き取り中";
+"Live bilingual captions" = "リアルタイム二言語字幕";
+"Low latency" = "低遅延";
+"Model changes apply when captions next start. High quality uses Apple Intelligence when available and may be slower." = "モデルの変更は次回の字幕開始時に適用されます。高品質では、利用可能な場合にApple Intelligenceを使用するため、処理が遅くなることがあります。";
+"Move Overlay to Current Screen" = "フローティング字幕を現在の画面へ移動";
+"Move to Current Screen" = "現在の画面へ移動";
+"notDetermined" = "未設定";
+"Offline test" = "オフラインテスト";
+"On-device only" = "デバイス上のみ";
+"Open System Settings" = "システム設定を開く";
+"Original caption color" = "原文字幕の色";
+"Original caption font size" = "原文字幕のサイズ";
+"Overlay" = "フローティング字幕";
+"Overlay Preview" = "フローティング字幕のプレビュー";
+"Permissions and offline models" = "権限とオフラインモデル";
+"Prepare offline models" = "オフラインモデルを準備";
+"Prepare the selected source-language speech model first." = "選択した原文言語の音声モデルを先に準備してください。";
+"Prepare the selected translation model first." = "選択した翻訳モデルを先に準備してください。";
+"Preparing" = "準備中";
+"Private by design" = "プライバシーを重視した設計";
+"Terminology — one term per line" = "用語 — 1行に1語";
+"Quit" = "終了";
+"Recognition and translation" = "音声認識と翻訳";
+"Recognizing" = "認識中";
+"Refresh running applications" = "実行中のアプリを更新";
+"Refresh status" = "状態を更新";
+"Request speech permission" = "音声認識の許可を要求";
+"Request system-audio permission" = "システムオーディオの許可を要求";
+"Restore default vocabulary" = "標準の用語集に戻す";
+"restricted" = "制限あり";
+"Screen & System Audio Recording" = "画面とシステムオーディオの収録";
+"Screen & System Audio Recording permission is not granted." = "画面とシステムオーディオの収録が許可されていません。";
+"Selected translation model" = "選択中の翻訳モデル";
+"Settings" = "設定";
+"Show Overlay" = "フローティング字幕を表示";
+"Simplified" = "簡体字";
+"Source Chinese script" = "原文中国語の字体";
+"Source and target languages must be different." = "原文言語と翻訳先言語は異なる言語にしてください。";
+"Source language" = "原文言語";
+"Source speech model" = "原文言語の音声モデル";
+"Speech Recognition" = "音声認識";
+"Speech Recognition permission is not granted." = "音声認識が許可されていません。";
+"Speech Recognition permission is required before the local model can be prepared." = "ローカルモデルを準備する前に音声認識の許可が必要です。";
+"Speech variety" = "地域・音声の種類";
+"Start Captions" = "字幕を開始";
+"Status:" = "状態：";
+"Stop Captions" = "字幕を停止";
+"Stopped" = "停止中";
+"Swap languages" = "言語を入れ替える";
+"Target Chinese script" = "翻訳先中国語の字体";
+"Target language" = "翻訳先言語";
+"The selected language pair is not supported by the on-device translation model." = "選択した言語の組み合わせはデバイス上の翻訳モデルに対応していません。";
+"The selected offline translation model is not prepared." = "選択したオフライン翻訳モデルは準備されていません。";
+"The system could not normalize the Chinese translation." = "中国語訳の字体を統一できませんでした。";
+"The system translation returned an unexpected target language." = "システム翻訳が予期しない翻訳先言語を返しました。";
+"Traditional" = "繁体字";
+"Translated caption color" = "翻訳字幕の色";
+"Translated caption font size" = "翻訳字幕のサイズ";
+"Translating" = "翻訳中";
+"Translation model" = "翻訳モデル";
+"Translation unavailable" = "翻訳を利用できません";
+"Typography" = "文字";
+"unsupported" = "非対応";
+"Waiting for source-language audio…" = "原文言語の音声を待っています…";
+"Window height" = "ウインドウの高さ";
+"Window width" = "ウインドウの幅";
+"Caption display" = "字幕表示";
+"Transcription and translation" = "文字起こしと翻訳";
+"Transcription only" = "文字起こしのみ";
+"Translation only" = "翻訳のみ";
+"Percentage unavailable from macOS" = "macOS から進行率は提供されません";
+"⌥⌘C Start/Stop  ·  ⌥⌘O Overlay" = "⌥⌘C 開始/停止  ·  ⌥⌘O 表示";
+"Permissions" = "アクセス許可";
+"Offline models" = "オフラインモデル";
+"Granted" = "許可済み";
+"Allow" = "許可";
+"Permission Required" = "アクセス許可が必要";
+"Open Settings" = "設定を開く";
+"Speech model" = "音声モデル";
+"Installed" = "インストール済み";
+"Not installed" = "未インストール";
+"Checking" = "確認中";
+"Downloading" = "ダウンロード中";
+"Unsupported" = "非対応";
+"Download failed" = "ダウンロードに失敗";
+"Download required models" = "必要なモデルをダウンロード";
+"Try Again" = "もう一度試す";
+"Ready for offline captions" = "オフライン字幕の準備完了";
+"How to test offline" = "オフラインでテストする方法";
+"Languages" = "言語";
+"Speech region" = "音声の地域";
+"Overlay appearance" = "字幕ウインドウの外観";
+"Appearance" = "外観";
+"About terminology" = "用語について";
+"Add names, acronyms, product names, and uncommon terms—one per line." = "人名、略語、製品名、珍しい用語を1行に1つずつ追加します。";
+"When captions next start, up to 200 entries are provided to on-device speech recognition as contextual hints." = "次回字幕を開始すると、最大200件の語句がコンテキストヒントとしてデバイス上の音声認識に渡されます。";
+"These hints may improve source recognition, but they do not force replacements or control translation. Entries stay on this Mac." = "ヒントは認識精度を高めることがありますが、置換を強制したり翻訳を制御したりはしません。語句はこのMac内に保持されます。";
+"System audio only. No screen images or microphone. Nothing is uploaded, recorded, or saved." = "システムオーディオのみを処理します。画面画像やマイクは使用しません。内容はアップロード、録音、保存されません。";
+"Live captions and translations may contain errors. For important content, verify against the original audio." = "リアルタイム字幕と翻訳には誤りが含まれる場合があります。重要な内容は元の音声と照合してください。";
+"macOS groups system-audio access under “Screen & System Audio Recording”. HoverCue registers audio only." = "macOSではシステムオーディオへのアクセスが「画面収録とシステムオーディオ」に分類されます。HoverCueが登録するのはオーディオ出力のみです。";
+"Model downloads are managed by macOS and may require internet the first time. HoverCue itself has no network-client permission." = "モデルのダウンロードはmacOSが管理し、初回はインターネット接続が必要な場合があります。HoverCue自体にはネットワーククライアント権限がありません。";
+"If macOS asks you to restart after a permission change, quit and reopen HoverCue." = "権限の変更後にmacOSから再起動を求められた場合は、HoverCueを終了して再度開いてください。";
+"Privacy Policy" = "プライバシーポリシー";
+"Done" = "完了";
+
+"HoverCue processes system audio, speech recognition, captions, and translations only on this Mac. Live content stays in memory." = "HoverCueはシステムオーディオ、音声認識、字幕、翻訳をこのMac上だけで処理します。ライブコンテンツはメモリ内にのみ保持されます。";
+"System audio only" = "システムオーディオのみ";
+"System Default Microphone" = "システムのデフォルトマイク";
+"Read Translation Automatically" = "翻訳を自動読み上げ";
+"Automatic Reading On" = "自動読み上げオン";
+"Reads each stable translation through the current system audio output." = "確定した翻訳を現在のシステム音声出力から読み上げます。";
+"Bluetooth or wired headphones are recommended when using microphone input and automatic reading." = "マイク入力と自動読み上げを使用する場合は、Bluetoothまたは有線ヘッドフォンを推奨します。";
+
+"Microphone access is requested only after you select a microphone source or explicitly allow it." = "マイク入力を選択するか明示的に許可した後にのみ、マイクへのアクセスを要求します。";
+"Microphone" = "マイク";
+"Microphone permission is not granted." = "マイクの使用が許可されていません。";
+"No installed system voice is available for the target language." = "対象言語に利用できるインストール済みのシステム音声がありません。";
+"The system audio input changed. Stop and restart captions to use the current microphone." = "システムの音声入力が変更されました。現在のマイクを使用するには字幕を停止して再開してください。";
+"No system-default microphone is available." = "利用できるシステムのデフォルトマイクがありません。";
+
+"User-selected audio source" = "ユーザーが選択した音声ソース";
+"HoverCue processes system audio or a selected microphone only when you select that source. It does not capture screen pixels, screenshots, or video." = "HoverCueは、そのソースを選択した場合にのみシステムオーディオまたは選択したマイクを処理します。画面のピクセル、スクリーンショット、動画は取得しません。";
+"HoverCue captures system audio output only. It does not capture screen pixels, screenshots, video, or microphone input." = "HoverCueはシステムオーディオ出力だけを取り込みます。画面のピクセル、スクリーンショット、映像、マイク入力は取り込みません。";
+
+"No accounts or tracking" = "アカウントもトラッキングもありません";
+"HoverCue has no accounts, analytics, advertising, or tracking." = "HoverCueにはアカウント、分析、広告、トラッキング機能はありません。";
+"Settings stored locally" = "設定はこのMacに保存";
+
+"Apple-managed language resources" = "Appleが管理する言語リソース";
+"Speech and translation resources are managed by Apple and may be downloaded by macOS on demand. HoverCue has no network-client permission." = "音声認識と翻訳のリソースはAppleが管理し、macOSによって必要に応じてダウンロードされる場合があります。HoverCueにはネットワーククライアント権限がありません。";
+"Playback voice" = "再生音声";
+"No installed voice" = "インストール済みの音声がありません";
+"Premium" = "プレミアム";
+"Enhanced" = "拡張";
+"Standard" = "標準";
+"Each timbre uses its highest-quality installed version for the target language." = "各音色は対象言語でインストール済みの最高品質版を使用します。";
+"Reads every stable translation in order and gradually speeds up when playback falls behind." = "確定した翻訳を順番に読み上げ、再生が遅れると徐々に速度を上げます。";
+"Complete reading never silently skips queued translations. Playback may remain behind the original audio." = "完全読み上げでは待機中の翻訳を無断で省略しません。再生が元の音声より遅れる場合があります。";
+"Microphones" = "マイク";
+"System Audio" = "システムオーディオ";
+"Selected Microphone (Unavailable)" = "選択したマイク（利用不可）";
+"Refresh audio sources" = "オーディオソースを更新";
+"The selected audio source is no longer available." = "選択したオーディオソースは利用できなくなりました。";
+"The selected microphone is no longer available." = "選択したマイクは利用できなくなりました。";
+"No microphone input is available." = "利用可能なマイク入力がありません。";
+"Unable to read available microphones." = "利用可能なマイクを読み込めませんでした。";
+
+"Live captions" = "リアルタイム字幕";
+"Navigation" = "ナビゲーション";
+"Audio and languages" = "音声と言語";
+"Reading and voice" = "読み上げと音声";
+
+/* Sidebar navigation and main-window accent */
+"Caption appearance" = "字幕の外観";
+"Terminology" = "用語";
+"Choose your audio and languages, then start captions." = "音声ソースと言語を選んで字幕を開始します。";
+"Adjust the look of your floating captions." = "フローティング字幕の表示を調整します。";
+"Choose how translated captions are read aloud." = "翻訳の読み上げ音声と方法を選びます。";
+"Help speech recognition with names and specialist terms." = "名前や専門用語を追加して音声認識を補助します。";
+"Personalize HoverCue and manage on-device resources." = "HoverCue の設定とローカルリソースを管理します。";
+"Menu theme color" = "メニューのテーマカラー";
+"Applies to menus and controls. Caption colors stay unchanged." = "メニューとコントロールに適用されます。字幕の色は変わりません。";
+"Follow System" = "システムに従う";
+"Blue" = "ブルー";
+"Purple" = "パープル";
+"Pink" = "ピンク";
+"Red" = "レッド";
+"Orange" = "オレンジ";
+"Yellow" = "イエロー";
+"Green" = "グリーン";
+"Graphite" = "グラファイト";
+
+"Permission required" = "アクセス許可が必要です";
+"Go to Settings" = "設定を開く";
+
+"Light Pink" = "ライトピンク";
+
+"Examples for %@ — one term per line" = "%@の入力例 — 1行に1語";
+
+"Keep original wording" = "原文を保持";
+
+"Specify translations" = "訳語を指定";
+
+"Keep terms unchanged or choose their translations." = "用語を原文のまま保持するか、訳語を指定します。";
+
+"Rules apply to this language direction when captions next start." = "この翻訳方向のルールは、次に字幕を開始したときに適用されます。";
+
+"Specified translations take priority when the same term appears in both boxes." = "同じ原語が両方の欄にある場合は、指定した訳語が優先されます。";
+
+"Matches ignore capitalization and prefer longer phrases. Common words may have different meanings in context." = "大文字と小文字を区別せず、長い語句を優先します。一般的な単語は文脈によって意味が異なる場合があります。";
+
+"Up to 200 entries per box; original terms up to 120 characters, translations up to 240." = "各欄は最大200件。原語は120文字、訳語は240文字までです。";
+
+"Rules stay on this Mac. Examples are not saved as rules." = "ルールはこのMacに保存されます。例はルールとして保存されません。";
+
+"One term per line. Matching terms stay unchanged in the translation." = "1行に1語。該当する用語は翻訳文でも原文のまま保持されます。";
+
+"One rule per line: original -> translation." = "1行に1件：原語 -> 訳語。";
+
+"Previous recognition hints" = "以前の音声認識ヒント";
+
+"These entries only help recognition and do not control translation." = "これらは音声認識を補助するだけで、訳語は指定しません。";
+
+"Invalid or duplicate entries on lines %@ are not applied." = "%@行目の無効または重複する項目は適用されません。";
+
+"Examples: %@ -> %@" = "例：%@ -> %@";
+
+"Translation terminology requires macOS 26.4 or later." = "翻訳用語ルールにはmacOS 26.4以降が必要です。";
+
+"The translation model did not preserve a terminology rule. This translation was not displayed." = "翻訳モデルが用語ルールを保持できなかったため、この翻訳は表示されませんでした。";
+
+"This sentence exceeded the terminology safety limit. This translation was not displayed." = "用語処理の安全上限を超えたため、この翻訳は表示されませんでした。";
+
+/* Audio source guidance */
+"Microphone: Picks up speech and surrounding sounds through the selected microphone." = "マイク：選択したマイクで話し声や周囲の音を拾います。";
+"System audio: Captures sound directly from apps on your Mac, without using the microphone." = "システムオーディオ：マイクを使わず、Mac上のアプリが再生する音を直接取り込みます。";
+
+/* Audio source organization and per-language voice preferences. */
+"Other audio sources" = "その他の音声ソース";
+"Selected Application (Unavailable)" = "選択したアプリ（利用不可）";
+"%@ (Unavailable)" = "%@（利用不可）";
+"Your preferred voice is unavailable. Another installed voice is being used." = "選択した声を利用できないため、別のインストール済みの声を使用しています。";
+
+/* Optional local translation history — Build 18. */
+"Translation history" = "翻訳履歴";
+"Save translation history" = "翻訳履歴を保存";
+"History ready for new captions" = "新しい字幕の記録準備ができました";
+"Saving text history" = "テキスト履歴を保存中";
+"Enable translation history?" = "翻訳履歴を有効にしますか？";
+"Everyone informed and agreed — enable" = "全員に説明し同意を得たので有効にする";
+"Review, export, or delete text saved with permission." = "同意を得て保存したテキストを表示・書き出し・削除します。";
+"Local text history" = "ローカルのテキスト履歴";
+"No translation history" = "翻訳履歴はありません";
+"Session" = "セッション";
+"Choose a session" = "セッションを選択";
+"Saved sessions" = "保存済みセッション";
+"Export TXT" = "TXTを書き出す";
+"Delete" = "削除";
+"Clear all" = "すべて消去";
+"Dismiss" = "通知を閉じる";
+"Cancel" = "キャンセル";
+"Translation failed" = "翻訳に失敗しました";
+"Translation incomplete" = "翻訳未完了";
+"Previous page" = "前のページ";
+"Next page" = "次のページ";
+"Delete this history?" = "この履歴を削除しますか？";
+"Clear all history?" = "すべての履歴を消去しますか？";
+"Original" = "原文";
+"Translation" = "訳文";
+"On-device processing" = "デバイス上で処理";
+"Optional local text history" = "任意のローカルテキスト履歴";
+"Before recording or exporting, make sure everyone involved knows and agrees. History is saved on this Mac." = "記録や書き出しの前に、関係者全員に説明し、同意を得てください。履歴はこのMacに保存されます。";
+"Off by default on every app launch. Turning it off keeps existing history; audio is never saved." = "起動時は毎回オフです。オフにしても保存済みの履歴は残ります。音声は保存しません。";
+"Confirm that everyone involved knows and agrees to recording and export. Only new stable sentences will be saved. Audio is never saved." = "関係者全員に記録と書き出しについて説明し、同意を得たことを確認してください。有効にした後の新しい確定文のみ保存します。音声は保存しません。";
+"Enable history after obtaining permission, then start captions. Existing history remains available after recording is turned off." = "同意を得て履歴を有効にしてから字幕を開始してください。記録をオフにしても保存済みの履歴を確認できます。";
+"This cannot be undone. Exported files are not deleted." = "この操作は取り消せません。書き出したファイルは削除されません。";
+"Recording will stop and all saved sessions will be deleted. Exported files are not deleted." = "記録を停止し、保存済みのすべてのセッションを削除します。書き出したファイルは削除しません。";
+"Deleting history does not remove files you already exported. Storage is limited to 100 MB and 1,000 sessions." = "履歴を削除しても書き出したファイルは残ります。保存上限は100 MB、1,000セッションです。";
+"History could not be saved. Recording has stopped; live captions continue." = "履歴を保存できませんでした。記録を停止しました。字幕は継続します。";
+"History reached its safety limit. Recording has stopped. Delete older history to free space." = "履歴が安全上の上限に達したため記録を停止しました。古い履歴を削除して空きを確保してください。";
+"A history entry exceeded its safety limit. Recording has stopped." = "履歴の1件が安全上の上限を超えたため記録を停止しました。";
+"History could not be opened. Existing files have been kept." = "履歴を開けませんでした。既存のファイルは保持されています。";
+"History could not be deleted. Please try again." = "履歴を削除できませんでした。もう一度お試しください。";
+"History exported. Files saved to a synced folder may be synced by your system." = "履歴を書き出しました。同期フォルダのファイルはシステムにより同期される場合があります。";
+"History could not be exported. Your existing file has not been replaced." = "履歴を書き出せませんでした。既存のファイルは置き換えていません。";
+"Audio, recognition, and translation stay on this Mac. Text history is off by default and can be saved and exported only when you enable it." = "音声・認識・翻訳はこのMac上で処理します。テキスト履歴は初期状態でオフで、有効にした場合のみ保存と書き出しができます。";
+"HoverCue processes audio, recognition, translation, and optional spoken translation on this Mac. Audio is never saved or uploaded." = "HoverCueは音声・認識・翻訳・任意の読み上げをこのMacで処理します。音声は保存もアップロードもしません。";
+"Text history is off at every app launch. After you confirm everyone is informed and agrees, new stable original text and translations can be saved locally and exported manually. You can delete saved history at any time." = "テキスト履歴は起動時に毎回オフになります。全員に説明し同意を得たことを確認すると、新しい確定原文と訳文をローカルに保存し、手動で書き出せます。保存した履歴はいつでも削除できます。";
+"App settings and terminology are saved in UserDefaults. Optional text history is stored separately in the app's local container, excluded from automatic backup. Exports go only to the location you choose; synced folders may sync them." = "設定と用語はUserDefaultsに保存します。任意のテキスト履歴はアプリのローカルコンテナに別途保存し、自動バックアップから除外します。書き出し先は指定した場所のみですが、同期フォルダではシステムが同期する場合があります。";
+"No screen images are captured." = "画面の画像は取得しません。";
+
+/* Automatic on-device history summaries. */
+"Summary queued. It will run when live captions are stopped." = "要約は待機中です。ライブ字幕の停止後に作成されます。";
+"Creating a title and bilingual summary on this Mac…" = "このMacでタイトルと2言語の要約を作成中…";
+"AI-generated summary. Check important details against the full transcript." = "AIが生成した要約です。重要な内容は全文で確認してください。";
+"This Mac does not support the local Apple Intelligence model. Your full history is available." = "このMacはローカルのApple Intelligenceモデルに対応していません。履歴の全文は利用できます。";
+"Enable Apple Intelligence in System Settings to create local summaries. Your full history is available." = "ローカル要約を作成するには、システム設定でApple Intelligenceを有効にしてください。履歴の全文は利用できます。";
+"Apple’s local model is not ready. Summaries will retry when it becomes available." = "Appleのローカルモデルは準備中です。利用可能になったら要約を再試行します。";
+"Apple’s local model does not support this session’s languages. Your full history is available." = "Appleのローカルモデルはこのセッションの言語に対応していません。履歴の全文は利用できます。";
+"A summary could not be created. It will retry after the next app launch. Your full history is available." = "要約を作成できませんでした。次回のアプリ起動後に再試行します。履歴の全文は利用できます。";
+"There is not enough meaningful text to summarize. Your full history is available." = "要約できる内容のあるテキストが不足しています。履歴の全文は利用できます。";
+"AI summary" = "AI要約";
+"Full transcript" = "会話の全文";
+"Some entries are incomplete. The summary uses only available text." = "一部の項目は不完全です。要約には利用可能なテキストのみを使います。";
+"A bilingual AI summary is not available yet. The full transcript follows." = "2言語のAI要約はまだ利用できません。以下は会話の全文です。";
+"When history is enabled, titles and bilingual summaries are created automatically on this Mac after captions stop, when Apple Intelligence is available." = "履歴を有効にすると、Apple Intelligenceが利用可能な場合、字幕の停止後にこのMacでタイトルと2言語の要約が自動作成されます。";
+"Confirm that everyone involved knows and agrees to local text recording, AI summaries and export. Only new stable sentences will be saved. Audio is never saved." = "参加者全員がローカルのテキスト記録、AI要約、書き出しについて理解し同意したことを確認してください。有効化後の新しい確定文のみ保存します。音声は保存しません。";
+
+"The AI summary did not match the selected languages and was not displayed. It will retry after the next app launch. Your full history is available." = "AI要約が選択した言語と一致しなかったため、表示していません。次回のアプリ起動後に再試行します。履歴の全文は利用できます。";
+
+"Concise" = "簡潔";
+"Detailed" = "詳細";
+"Main topic and core conclusions, in a short summary." = "主な話題と重要な結論を短くまとめます。";
+"Overview, key points, reasons, decisions and open questions." = "概要、主な要点、理由、決定事項、未解決の課題をまとめます。";
+"More context by topic, including stated reasons, differences, figures and next steps." = "話題ごとに背景を詳しくまとめ、会話で示された理由、意見の違い、数値、今後の予定を含めます。";
+"Default summary detail" = "要約の既定の詳しさ";
+"Summary detail" = "要約の詳しさ";
+"Applies to new sessions. Each saved session can use a different summary detail." = "新しいセッションに適用されます。保存済みの履歴では個別に詳しさを選べます。";
+"Legacy summary" = "旧バージョンの要約";
+"This summary was created by an earlier version. Choose a detail level to create a new one from the full transcript." = "この要約は旧バージョンで作成されました。詳しさを選ぶと、全文から新しい要約を作成します。";
+"Showing saved summary:" = "表示中の保存済み要約：";
+"The summary level could not be changed. Existing summaries have been kept." = "要約の詳しさを変更できませんでした。既存の要約は保持されています。";
+"The selected summary is not ready. The full transcript follows." = "選択した要約はまだ準備できていません。以下に全文を記載します。";
+
+/* Summary source and local processing. */
+"Summaries are generated on this Mac using Apple Intelligence. Bilingual content is processed locally. Check important details against the full transcript." = "要約は、このMac上でApple Intelligenceを使用して生成されます。二言語の内容もデバイス上で処理されます。重要な内容は全文で確認してください。";
+
+"Before enabling history, make sure everyone involved knows and agrees." = "履歴を有効にする前に、参加者全員に説明し、同意を得てください。";
+"Learn about history and privacy" = "履歴とプライバシーについて";
+"History is saved on this Mac. Exports go only to the location you choose." = "履歴はこのMacに保存されます。書き出したファイルは、選択した場所にのみ保存されます。";
+"Generated with Apple Intelligence · On-device" = "Apple Intelligenceで生成 · デバイス上で処理";
+"About AI summaries" = "AI要約について";
+
+"Contextual enhancement" = "文脈を考慮";
+"Contextual enhancement requires macOS 26.4 or later. System translation will be used." = "文脈を考慮した翻訳にはmacOS 26.4以降が必要です。システム翻訳を使用します。";
+"This Mac cannot run contextual enhancement. System translation will be used." = "このMacでは文脈を考慮した翻訳を実行できません。システム翻訳を使用します。";
+"Enable Apple Intelligence in System Settings for contextual enhancement. System translation will be used." = "文脈を考慮した翻訳を使うには、システム設定でApple Intelligenceを有効にしてください。それまではシステム翻訳を使用します。";
+"Apple’s local model is not ready for contextual enhancement. System translation will be used." = "文脈を考慮した翻訳に必要なAppleのローカルモデルの準備ができていません。システム翻訳を使用します。";
+"Apple’s local model does not support this language pair for contextual enhancement. System translation will be used." = "Appleのローカルモデルは、この言語の組み合わせでの文脈を考慮した翻訳に対応していません。システム翻訳を使用します。";
+"Contextual enhancement · On-device" = "文脈を考慮 · デバイス上で処理";
+"Contextual enhancement paused for this session; using system translation." = "このセッションでは文脈を考慮した翻訳を一時停止し、システム翻訳を使用しています。";
+"Using system translation for this sentence." = "この文にはシステム翻訳を使用しています。";
+"Contextual enhancement uses Apple Intelligence on this Mac to translate each sentence with up to four recent source sentences. It may be slower; system translation is used if it is unavailable, times out, or falls behind." = "文脈を考慮した翻訳は、このMacのApple Intelligenceを使い、直近の原文を最大4文まで参照して現在の文を翻訳します。時間がかかる場合があり、利用不可、タイムアウト、遅延時にはシステム翻訳を使用します。";
+"Context is held only in bounded memory and cleared when captions stop. It does not enable history or save audio. Only the final translation is displayed, read aloud, and saved when history is enabled." = "文脈は上限のあるメモリにのみ一時保持し、字幕停止時に消去します。履歴を有効にしたり音声を保存したりしません。最終的な訳文のみ表示・読み上げし、履歴が有効な場合に保存します。";
+"Contextual enhancement unavailable; using system translation." = "文脈を考慮した翻訳は利用できないため、システム翻訳を使用しています。";
+
+/* Description of the selected translation mode. */
+"Uses Apple system translation, prioritizing response speed." = "Appleのシステム翻訳を使用し、応答速度を優先します。";
+"Uses Apple system high-quality translation, with Apple Intelligence when available." = "Appleの高品質なシステム翻訳を使用し、利用可能な場合はApple Intelligenceが支援します。";
+"Uses Apple Intelligence on this Mac to translate with recent source context." = "このMacのApple Intelligenceを使用し、直近の原文の文脈を参考に翻訳します。";
+
+"Back to latest" = "最新に戻る";
+
+"Recent captions" = "最近の字幕";
+
+"Model changes apply when captions next start." = "モデルの変更は、次に字幕を開始するときに適用されます。";

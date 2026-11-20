@@ -1,0 +1,379 @@
+"After both selected models show “installed”, quit and reopen the app if macOS asks, turn off Wi‑Fi, play a video in the selected source language, select that application, and start captions." = "两个所选模型都显示“已安装”后，如果 macOS 提示，请退出并重新打开应用。关闭 Wi‑Fi，播放所选源语言的视频，选择对应应用，然后开始字幕。";
+
+"Original caption color" = "原文字幕颜色";
+"Original caption font size" = "原文字幕字号";
+"Prepare the selected source-language speech model first." = "请先准备所选源语言的语音模型。";
+"Prepare the selected translation model first." = "请先准备所选翻译模型。";
+"Selected translation model" = "所选翻译模型";
+"Simplified" = "简体";
+"Source Chinese script" = "源中文字体";
+"Source language" = "源语言";
+"Source speech model" = "源语言语音模型";
+"Source and target languages must be different." = "源语言和目标语言必须不同。";
+"Speech variety" = "语音地区";
+"Swap languages" = "交换语言";
+"Target Chinese script" = "目标中文字体";
+"The selected language pair is not supported by the on-device translation model." = "设备端翻译模型不支持所选语言组合。";
+"The selected offline translation model is not prepared." = "所选离线翻译模型尚未准备好。";
+"The system could not normalize the Chinese translation." = "系统无法规范化中文翻译。";
+"Traditional" = "繁体";
+"Translated caption color" = "译文字幕颜色";
+"Translated caption font size" = "译文字幕字号";
+"Waiting for source-language audio…" = "等待源语言音频…";
+"After both models show “installed”, quit and reopen the app if macOS asks, turn off Wi‑Fi, play an English video in Safari or QuickTime Player, select that application, and start captions." = "两个模型都显示“已安装”后，如果 macOS 提示，请退出并重新打开应用。关闭 Wi‑Fi，在 Safari 或 QuickTime Player 中播放英语视频，选择对应应用，然后开始字幕。";
+"All audio, English captions, and Chinese translations are processed on this Mac. Nothing is uploaded, recorded, or saved as caption history." = "所有音频、英文字幕和中文翻译都在这台 Mac 上处理。内容不会上传、录音，也不会保存为字幕历史。";
+"All System Audio" = "所有系统音频";
+"American English" = "美式英语";
+"App language" = "应用语言";
+"Application filters operate at the application-process level." = "音频来源筛选按应用进程生效。";
+"Audio source" = "音频来源";
+"British English" = "英式英语";
+"Captions" = "字幕";
+"Capture" = "捕获";
+"checking" = "检查中";
+"Chinese color" = "中文颜色";
+"Chinese font size" = "中文字号";
+"Dark" = "深色";
+"denied" = "已拒绝";
+"downloadable" = "可下载";
+"downloading" = "下载中";
+"English" = "英文";
+"English accent" = "英语口音";
+"English color" = "英文颜色";
+"English font size" = "英文字号";
+"English speech model" = "英语语音模型";
+"English → Simplified Chinese model" = "英语 → 简体中文翻译模型";
+"Error" = "错误";
+"error" = "错误";
+"General" = "通用";
+"Glass appearance" = "玻璃外观";
+"Glass opacity" = "玻璃不透明度";
+"granted" = "已授权";
+"Hide Overlay" = "隐藏悬浮字幕";
+"installed" = "已安装";
+"Light" = "浅色";
+"Listening" = "监听中";
+"Live bilingual captions" = "实时双语字幕";
+"Move Overlay to Current Screen" = "将悬浮字幕移到当前屏幕";
+"Move to Current Screen" = "移到当前屏幕";
+"notDetermined" = "未确定";
+"Offline test" = "离线测试";
+"On-device only" = "仅在设备端处理";
+"Open System Settings" = "打开系统设置";
+"Overlay" = "悬浮字幕";
+"Overlay Preview" = "悬浮窗预览";
+"Permissions and offline models" = "权限与离线模型";
+"Prepare offline models" = "准备离线模型";
+"Prepare the English offline speech model first." = "请先准备英语离线语音模型。";
+"Prepare the English–Simplified Chinese translation model first." = "请先准备英语到简体中文的翻译模型。";
+"Preparing" = "准备中";
+"Private by design" = "隐私优先设计";
+"Terminology — one term per line" = "术语——每行一个词条";
+"Quit" = "退出";
+"Recognition and translation" = "识别与翻译";
+"Recognizing" = "识别中";
+"Refresh running applications" = "刷新正在运行的应用";
+"Refresh status" = "刷新状态";
+"Request speech permission" = "请求语音识别权限";
+"Request system-audio permission" = "请求系统音频权限";
+"Restore default vocabulary" = "恢复默认词汇";
+"restricted" = "受限制";
+"Screen & System Audio Recording" = "屏幕与系统音频录制";
+"Screen & System Audio Recording permission is not granted." = "尚未授予屏幕与系统音频录制权限。";
+"Settings" = "设置";
+"Setup" = "准备";
+"Show Overlay" = "显示悬浮字幕";
+"Simplified Chinese" = "简体中文";
+"Speech Recognition" = "语音识别";
+"Speech Recognition permission is not granted." = "尚未授予语音识别权限。";
+"Speech Recognition permission is required before the local model can be prepared." = "准备本地模型前，需要先授予语音识别权限。";
+"Start Captions" = "开始字幕";
+"Status:" = "状态：";
+"Stop Captions" = "停止字幕";
+"Stopped" = "已停止";
+"Target language" = "目标语言";
+"The English–Simplified Chinese offline translation model is not prepared." = "英语到简体中文的离线翻译模型尚未准备好。";
+"The system translation returned an unexpected target language." = "系统翻译返回了不符合预期的目标语言。";
+"The system could not normalize the Chinese translation to Simplified Chinese." = "系统无法将中文翻译规范化为简体中文。";
+"Translating" = "翻译中";
+"Translation model" = "翻译模型";
+"Low latency" = "低延迟";
+"High quality" = "高质量";
+"High Transparency" = "高通透";
+"Model changes apply when captions next start. High quality uses Apple Intelligence when available and may be slower." = "模型切换将在下次开始字幕时生效。高质量模式会在可用时使用 Apple 智能，速度可能较慢。";
+"Translation unavailable" = "翻译暂不可用";
+"Typography" = "字体";
+"unsupported" = "不受支持";
+"Waiting for English audio…" = "等待英语音频…";
+"Window height" = "窗口高度";
+"Window width" = "窗口宽度";
+"Caption display" = "字幕显示";
+"Transcription and translation" = "同时显示转录与翻译";
+"Transcription only" = "仅显示转录";
+"Translation only" = "仅显示翻译";
+"Percentage unavailable from macOS" = "macOS 未提供百分比";
+"⌥⌘C Start/Stop  ·  ⌥⌘O Overlay" = "⌥⌘C 开始/停止  ·  ⌥⌘O 悬浮窗";
+"Permissions" = "权限";
+"Offline models" = "离线模型";
+"Granted" = "已授权";
+"Allow" = "允许";
+"Permission Required" = "需要权限";
+"Open Settings" = "打开设置";
+"Speech model" = "语音模型";
+"Installed" = "已安装";
+"Not installed" = "未安装";
+"Checking" = "检查中";
+"Downloading" = "下载中";
+"Unsupported" = "不受支持";
+"Download failed" = "下载失败";
+"Download required models" = "下载所需模型";
+"Try Again" = "重试";
+"Ready for offline captions" = "已准备好离线字幕";
+"How to test offline" = "如何测试离线功能";
+"Languages" = "语言";
+"Speech region" = "语音地区";
+"Overlay appearance" = "悬浮字幕外观";
+"Appearance" = "外观";
+"About terminology" = "关于术语";
+"Add names, acronyms, product names, and uncommon terms—one per line." = "添加人名、缩写、产品名和不常见的术语——每行一个。";
+"When captions next start, up to 200 entries are provided to on-device speech recognition as contextual hints." = "下次开始字幕时，最多 200 个词条会作为上下文提示提供给设备端语音识别。";
+"These hints may improve source recognition, but they do not force replacements or control translation. Entries stay on this Mac." = "这些提示可能提高原文识别准确率，但不会强制替换或控制翻译。词条仅保存在这台 Mac 上。";
+"System audio only. No screen images or microphone. Nothing is uploaded, recorded, or saved." = "仅处理系统音频。不获取屏幕图像，不使用麦克风。任何内容都不会上传、录音或保存。";
+"Live captions and translations may contain errors. For important content, verify against the original audio." = "实时字幕和翻译可能存在错误。对于重要内容，请对照原始音频核对。";
+"macOS groups system-audio access under “Screen & System Audio Recording”. HoverCue registers audio only." = "macOS 将系统音频访问归入“屏幕与系统音频录制”权限；HoverCue 仅注册音频输出。";
+"Model downloads are managed by macOS and may require internet the first time. HoverCue itself has no network-client permission." = "模型下载由 macOS 管理，首次可能需要联网。HoverCue 本身没有网络客户端权限。";
+"If macOS asks you to restart after a permission change, quit and reopen HoverCue." = "如果 macOS 在权限变更后要求重新启动，请退出并重新打开 HoverCue。";
+"Privacy Policy" = "隐私政策";
+"Done" = "完成";
+
+"HoverCue processes system audio, speech recognition, captions, and translations only on this Mac. Live content stays in memory." = "HoverCue 仅在这台 Mac 上处理系统音频、语音识别、字幕和翻译。实时内容只保留在内存中。";
+"System audio only" = "仅系统音频";
+"System Default Microphone" = "系统默认麦克风";
+"Read Translation Automatically" = "自动朗读译文";
+"Automatic Reading On" = "自动朗读已开启";
+"Reads each stable translation through the current system audio output." = "通过当前系统音频输出朗读每条稳定译文。";
+"Bluetooth or wired headphones are recommended when using microphone input and automatic reading." = "使用麦克风输入和自动朗读时，建议使用蓝牙或有线耳机。";
+
+"Microphone access is requested only after you select a microphone source or explicitly allow it." = "仅在您选择麦克风来源或明确点击允许后，才会申请麦克风权限。";
+"Microphone" = "麦克风";
+"Microphone permission is not granted." = "尚未授予麦克风权限。";
+"No installed system voice is available for the target language." = "目标语言没有已安装的系统朗读声音。";
+"The system audio input changed. Stop and restart captions to use the current microphone." = "系统音频输入已更改。请停止并重新开始字幕，以使用当前麦克风。";
+"No system-default microphone is available." = "没有可用的系统默认麦克风。";
+
+"User-selected audio source" = "用户选择的音频来源";
+"HoverCue processes system audio or a selected microphone only when you select that source. It does not capture screen pixels, screenshots, or video." = "HoverCue 仅在您选择对应来源时处理系统音频或所选麦克风。它不会获取屏幕像素、截图或视频。";
+"HoverCue captures system audio output only. It does not capture screen pixels, screenshots, video, or microphone input." = "HoverCue 只捕获系统音频输出，不捕获屏幕像素、截屏或视频，也不使用麦克风输入。";
+
+"No accounts or tracking" = "无账户或追踪";
+"HoverCue has no accounts, analytics, advertising, or tracking." = "HoverCue 不包含账户、分析、广告或追踪功能。";
+"Settings stored locally" = "设置保存在本机";
+
+"Apple-managed language resources" = "Apple 管理的语言资源";
+"Speech and translation resources are managed by Apple and may be downloaded by macOS on demand. HoverCue has no network-client permission." = "语音和翻译资源由 Apple 管理，macOS 可能会按需下载。HoverCue 没有网络客户端权限。";
+"Playback voice" = "播放音色";
+"No installed voice" = "没有已安装的声音";
+"Premium" = "高级";
+"Enhanced" = "增强";
+"Standard" = "标准";
+"Each timbre uses its highest-quality installed version for the target language." = "每个音色都使用目标语言中已安装的最高质量版本。";
+"Reads every stable translation in order and gradually speeds up when playback falls behind." = "按顺序朗读每条稳定译文，并在播放落后时逐步加速。";
+"Complete reading never silently skips queued translations. Playback may remain behind the original audio." = "完整朗读不会静默跳过已排队的译文，播放进度可能落后于原声。";
+"Microphones" = "麦克风";
+"System Audio" = "系统音频";
+"Selected Microphone (Unavailable)" = "所选麦克风（不可用）";
+"Refresh audio sources" = "刷新音频来源";
+"The selected audio source is no longer available." = "所选音频来源已不可用。";
+"The selected microphone is no longer available." = "所选麦克风已不可用。";
+"No microphone input is available." = "没有可用的麦克风输入。";
+"Unable to read available microphones." = "无法读取可用麦克风。";
+
+"Live captions" = "实时字幕";
+"Navigation" = "导航";
+"Audio and languages" = "音频与语言";
+"Reading and voice" = "朗读与声音";
+
+/* Sidebar navigation and main-window accent */
+"Caption appearance" = "字幕外观";
+"Terminology" = "术语";
+"Choose your audio and languages, then start captions." = "选择声音来源和语言，即可开始字幕。";
+"Adjust the look of your floating captions." = "调整悬浮字幕的样式与排版。";
+"Choose how translated captions are read aloud." = "选择译文朗读的声音与方式。";
+"Help speech recognition with names and specialist terms." = "添加人名和专业术语，辅助语音识别。";
+"Personalize HoverCue and manage on-device resources." = "个性化设置与本机资源管理。";
+"Menu theme color" = "菜单主题色";
+"Applies to menus and controls. Caption colors stay unchanged." = "应用于菜单与控件，不影响字幕颜色。";
+"Follow System" = "跟随系统";
+"Blue" = "蓝色";
+"Purple" = "紫色";
+"Pink" = "粉色";
+"Red" = "红色";
+"Orange" = "橙色";
+"Yellow" = "黄色";
+"Green" = "绿色";
+"Graphite" = "石墨色";
+
+"Permission required" = "需要授权";
+"Go to Settings" = "前往设置";
+
+"Light Pink" = "淡粉色";
+
+"Examples for %@ — one term per line" = "示例（%@）——每行一个词条";
+
+"Keep original wording" = "保留原文";
+
+"Specify translations" = "指定译法";
+
+"Keep terms unchanged or choose their translations." = "保留词汇原文，或指定它们的译法。";
+
+"Rules apply to this language direction when captions next start." = "规则仅用于当前语言方向，下次开始字幕时生效。";
+
+"Specified translations take priority when the same term appears in both boxes." = "同一个原词出现在两栏时，优先使用指定译法。";
+
+"Matches ignore capitalization and prefer longer phrases. Common words may have different meanings in context." = "匹配不区分大小写，优先匹配较长的词组。普通词在不同语境中可能有不同含义。";
+
+"Up to 200 entries per box; original terms up to 120 characters, translations up to 240." = "每栏最多 200 条；原词最多 120 个字符，译法最多 240 个字符。";
+
+"Rules stay on this Mac. Examples are not saved as rules." = "规则仅保存在这台 Mac 上。示例不会保存为规则。";
+
+"One term per line. Matching terms stay unchanged in the translation." = "每行一个词。匹配的词会在译文中保持原样。";
+
+"One rule per line: original -> translation." = "每行一条：原词 -> 指定译法。";
+
+"Previous recognition hints" = "之前的识别提示词";
+
+"These entries only help recognition and do not control translation." = "这些词条仅帮助识别，不控制译法。";
+
+"Invalid or duplicate entries on lines %@ are not applied." = "第 %@ 行的条目格式无效或重复，不会应用。";
+
+"Examples: %@ -> %@" = "示例：%@ -> %@";
+
+"Translation terminology requires macOS 26.4 or later." = "翻译术语规则需要 macOS 26.4 或更高版本。";
+
+"The translation model did not preserve a terminology rule. This translation was not displayed." = "翻译模型未能完整保留术语规则，本条译文未显示。";
+
+"This sentence exceeded the terminology safety limit. This translation was not displayed." = "本句超出了术语处理的安全上限，本条译文未显示。";
+
+/* Audio source guidance */
+"Microphone: Picks up speech and surrounding sounds through the selected microphone." = "麦克风：拾取所选麦克风周围的声音，如说话声和环境声。";
+"System audio: Captures sound directly from apps on your Mac, without using the microphone." = "系统音频：直接获取电脑中应用播放的声音，不通过麦克风采集周围环境声。";
+
+/* Audio source organization and per-language voice preferences. */
+"Other audio sources" = "其他音频来源";
+"Selected Application (Unavailable)" = "所选应用（不可用）";
+"%@ (Unavailable)" = "%@（不可用）";
+"Your preferred voice is unavailable. Another installed voice is being used." = "首选声音暂不可用，正在使用另一种已安装的声音。";
+
+/* Optional local translation history — Build 18. */
+"Translation history" = "翻译历史";
+"Save translation history" = "保存翻译历史";
+"History ready for new captions" = "已准备记录新字幕";
+"Saving text history" = "正在保存文字历史";
+"Enable translation history?" = "开启翻译历史？";
+"Everyone informed and agreed — enable" = "已告知并获得同意，开启";
+"Review, export, or delete text saved with permission." = "查看、导出或删除经过同意保存的文字。";
+"Local text history" = "本地文字历史";
+"No translation history" = "暂无翻译历史";
+"Session" = "会话";
+"Choose a session" = "选择一条会话";
+"Saved sessions" = "已保存的会话";
+"Export TXT" = "导出 TXT";
+"Delete" = "删除";
+"Clear all" = "清空全部";
+"Dismiss" = "关闭提示";
+"Cancel" = "取消";
+"Translation failed" = "翻译失败";
+"Translation incomplete" = "翻译未完成";
+"Previous page" = "上一页";
+"Next page" = "下一页";
+"Delete this history?" = "删除这条历史？";
+"Clear all history?" = "清空全部历史？";
+"Original" = "原文";
+"Translation" = "译文";
+"On-device processing" = "设备端处理";
+"Optional local text history" = "可选的本地文字历史";
+"Before recording or exporting, make sure everyone involved knows and agrees. History is saved on this Mac." = "记录或导出前，请确保所有相关参与者已知晓并同意。历史将保存在这台 Mac 上。";
+"Off by default on every app launch. Turning it off keeps existing history; audio is never saved." = "每次打开 App 时默认关闭。关闭后保留已有历史；始终不保存音频。";
+"Confirm that everyone involved knows and agrees to recording and export. Only new stable sentences will be saved. Audio is never saved." = "请确认已告知所有相关参与者，并获得记录及导出的同意。仅保存开启后新确认的句子，不保存音频。";
+"Enable history after obtaining permission, then start captions. Existing history remains available after recording is turned off." = "获得同意后开启历史，再开始字幕。关闭记录后，已有历史仍可查看。";
+"This cannot be undone. Exported files are not deleted." = "此操作无法撤销。已导出的文件不会被删除。";
+"Recording will stop and all saved sessions will be deleted. Exported files are not deleted." = "记录将停止，全部已保存会话将被删除。已导出的文件不会被删除。";
+"Deleting history does not remove files you already exported. Storage is limited to 100 MB and 1,000 sessions." = "删除历史不会删除已导出的文件。历史存储上限为 100 MB、1,000 条会话。";
+"History could not be saved. Recording has stopped; live captions continue." = "无法保存历史。记录已停止，实时字幕继续运行。";
+"History reached its safety limit. Recording has stopped. Delete older history to free space." = "历史达到容量或队列上限，已停止记录。请删除旧历史以释放空间。";
+"A history entry exceeded its safety limit. Recording has stopped." = "某条历史超过长度上限，已停止记录。";
+"History could not be opened. Existing files have been kept." = "无法打开历史。已有文件已保留。";
+"History could not be deleted. Please try again." = "无法删除历史，请重试。";
+"History exported. Files saved to a synced folder may be synced by your system." = "历史已导出。保存在同步文件夹中的文件可能由系统同步。";
+"History could not be exported. Your existing file has not been replaced." = "无法导出历史。原有文件未被替换。";
+"Audio, recognition, and translation stay on this Mac. Text history is off by default and can be saved and exported only when you enable it." = "音频、识别和翻译均在这台 Mac 上处理。文字历史默认关闭，只有主动开启后才保存并可手动导出。";
+"HoverCue processes audio, recognition, translation, and optional spoken translation on this Mac. Audio is never saved or uploaded." = "HoverCue 在这台 Mac 上处理音频、语音识别、翻译和可选译文朗读。音频始终不保存、不上传。";
+"Text history is off at every app launch. After you confirm everyone is informed and agrees, new stable original text and translations can be saved locally and exported manually. You can delete saved history at any time." = "每次打开 App 时文字历史默认关闭。确认所有相关参与者知晓并同意后，可在本地保存新确认的原文与译文，并手动导出。你可以随时删除已保存的历史。";
+"App settings and terminology are saved in UserDefaults. Optional text history is stored separately in the app's local container, excluded from automatic backup. Exports go only to the location you choose; synced folders may sync them." = "应用设置及术语保存在 UserDefaults。可选文字历史单独保存在 App 的本地容器中，并排除自动备份。导出仅写入你选择的位置；同步文件夹可能同步这些文件。";
+"No screen images are captured." = "不捕获屏幕画面。";
+
+/* Automatic on-device history summaries. */
+"Summary queued. It will run when live captions are stopped." = "总结已排队，将在实时字幕停止后生成。";
+"Creating a title and bilingual summary on this Mac…" = "正在此 Mac 上生成标题和双语总结…";
+"AI-generated summary. Check important details against the full transcript." = "此总结由 AI 生成，请对照完整记录核实重要细节。";
+"This Mac does not support the local Apple Intelligence model. Your full history is available." = "此 Mac 不支持本地 Apple 智能模型，您仍可查看完整历史记录。";
+"Enable Apple Intelligence in System Settings to create local summaries. Your full history is available." = "请在系统设置中开启 Apple 智能，以生成本地总结。您仍可查看完整历史记录。";
+"Apple’s local model is not ready. Summaries will retry when it becomes available." = "Apple 的本地模型尚未就绪，可用后将重试生成总结。";
+"Apple’s local model does not support this session’s languages. Your full history is available." = "Apple 的本地模型不支持此记录的语言，您仍可查看完整历史记录。";
+"A summary could not be created. It will retry after the next app launch. Your full history is available." = "暂时无法生成总结，将在下次启动应用后重试。您仍可查看完整历史记录。";
+"There is not enough meaningful text to summarize. Your full history is available." = "可总结的有效文字不足，您仍可查看完整历史记录。";
+"AI summary" = "AI 内容总结";
+"Full transcript" = "完整对话记录";
+"Some entries are incomplete. The summary uses only available text." = "部分条目不完整，总结仅依据已保存的文字。";
+"A bilingual AI summary is not available yet. The full transcript follows." = "双语 AI 总结尚不可用，以下为完整对话记录。";
+"When history is enabled, titles and bilingual summaries are created automatically on this Mac after captions stop, when Apple Intelligence is available." = "开启历史后，若 Apple 智能可用，实时字幕停止时会自动在此 Mac 上生成标题和双语总结。";
+"Confirm that everyone involved knows and agrees to local text recording, AI summaries and export. Only new stable sentences will be saved. Audio is never saved." = "请确认所有参与者已知晓并同意本地文字记录、AI 总结及导出。仅保存开启后的新稳定句子，绝不保存音频。";
+
+"The AI summary did not match the selected languages and was not displayed. It will retry after the next app launch. Your full history is available." = "AI 总结未符合所选语言，已暂停展示。下次启动应用后将重试，您仍可查看完整历史记录。";
+
+"Concise" = "简洁";
+"Detailed" = "详细";
+"Main topic and core conclusions, in a short summary." = "简要总结主要话题和核心结论。";
+"Overview, key points, reasons, decisions and open questions." = "包含概述、主要要点、原因、决定和尚未解决的问题。";
+"More context by topic, including stated reasons, differences, figures and next steps." = "按话题保留更多背景，以及对话中明确提到的原因、分歧、数据和后续安排。";
+"Default summary detail" = "默认总结档位";
+"Summary detail" = "总结档位";
+"Applies to new sessions. Each saved session can use a different summary detail." = "适用于新会话。已保存的每条历史可以单独选择总结档位。";
+"Legacy summary" = "旧版总结";
+"This summary was created by an earlier version. Choose a detail level to create a new one from the full transcript." = "这份总结由旧版本生成。选择总结档位，即可根据完整原文生成新的总结。";
+"Showing saved summary:" = "当前显示已保存的总结：";
+"The summary level could not be changed. Existing summaries have been kept." = "无法更改总结档位。已有总结已保留。";
+"The selected summary is not ready. The full transcript follows." = "所选档位的总结尚未就绪。以下为完整原文。";
+
+/* Summary source and local processing. */
+"Summaries are generated on this Mac using Apple Intelligence. Bilingual content is processed locally. Check important details against the full transcript." = "总结使用 Apple 智能在本机生成，双语内容均在本机处理。重要细节请对照完整记录核实。";
+
+"Before enabling history, make sure everyone involved knows and agrees." = "开启前，请确保所有参与者已知晓并同意。";
+"Learn about history and privacy" = "了解历史记录与隐私";
+"History is saved on this Mac. Exports go only to the location you choose." = "历史记录保存在这台 Mac 上，导出文件仅保存到您选择的位置。";
+"Generated with Apple Intelligence · On-device" = "由 Apple 智能生成 · 本机处理";
+"About AI summaries" = "关于 AI 总结";
+
+"Contextual enhancement" = "上下文增强";
+"Contextual enhancement requires macOS 26.4 or later. System translation will be used." = "上下文增强需要 macOS 26.4 或更高版本，将使用系统翻译。";
+"This Mac cannot run contextual enhancement. System translation will be used." = "此 Mac 无法运行上下文增强，将使用系统翻译。";
+"Enable Apple Intelligence in System Settings for contextual enhancement. System translation will be used." = "请在系统设置中开启 Apple 智能以使用上下文增强，当前将使用系统翻译。";
+"Apple’s local model is not ready for contextual enhancement. System translation will be used." = "Apple 本地模型尚未准备好用于上下文增强，将使用系统翻译。";
+"Apple’s local model does not support this language pair for contextual enhancement. System translation will be used." = "Apple 本地模型不支持此语言组合的上下文增强，将使用系统翻译。";
+"Contextual enhancement · On-device" = "上下文增强 · 本机处理";
+"Contextual enhancement paused for this session; using system translation." = "本次字幕已暂停上下文增强，正在使用系统翻译。";
+"Using system translation for this sentence." = "当前句正在使用系统翻译。";
+"Contextual enhancement uses Apple Intelligence on this Mac to translate each sentence with up to four recent source sentences. It may be slower; system translation is used if it is unavailable, times out, or falls behind." = "上下文增强使用这台 Mac 上的 Apple 智能，参考最近最多四句原文翻译当前句。速度可能较慢；模型不可用、超时或跟不上时会使用系统翻译。";
+"Context is held only in bounded memory and cleared when captions stop. It does not enable history or save audio. Only the final translation is displayed, read aloud, and saved when history is enabled." = "上下文仅在有限的内存空间中暂存，停止字幕后清除。不会因此开启历史或保存音频。只显示、朗读最终译文，并仅在历史开启后保存。";
+"Contextual enhancement unavailable; using system translation." = "上下文增强不可用，正在使用系统翻译。";
+
+/* Description of the selected translation mode. */
+"Uses Apple system translation, prioritizing response speed." = "使用 Apple 系统翻译，优先响应速度。";
+"Uses Apple system high-quality translation, with Apple Intelligence when available." = "使用 Apple 系统高质量翻译，可用时由 Apple 智能支持。";
+"Uses Apple Intelligence on this Mac to translate with recent source context." = "使用本机 Apple 智能，参考近期原文翻译当前句。";
+
+"Back to latest" = "回到最新";
+
+"Recent captions" = "近期字幕";
+
+"Model changes apply when captions next start." = "模型切换将在下次开始字幕时生效。";

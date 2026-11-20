@@ -1,0 +1,138 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AA0000000000000000000300 /* OverlayPreviewLandscape.png in Resources */ = {isa = PBXBuildFile; fileRef = AA0000000000000000000301 /* OverlayPreviewLandscape.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AA0000000000000000000101 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AA0000000000000000000001 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AA0000000000000000000010;
+			remoteInfo = LocalDualCaption;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		AA0000000000000000000020 /* HoverCue.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HoverCue.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA0000000000000000000021 /* LocalDualCaptionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LocalDualCaptionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA0000000000000000000301 /* OverlayPreviewLandscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = OverlayPreviewLandscape.png; path = LocalDualCaption/Assets.xcassets/OverlayPreviewLandscape.imageset/OverlayPreviewLandscape.png; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		AA0000000000000000000030 /* LocalDualCaption */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = LocalDualCaption;
+			sourceTree = "<group>";
+		};
+		AA0000000000000000000031 /* LocalDualCaptionTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = LocalDualCaptionTests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AA0000000000000000000040 /* Frameworks */ = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+		AA0000000000000000000041 /* Frameworks */ = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AA0000000000000000000002 = {
+			isa = PBXGroup;
+			children = (
+				AA0000000000000000000030 /* LocalDualCaption */,
+				AA0000000000000000000031 /* LocalDualCaptionTests */,
+				AA0000000000000000000003 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AA0000000000000000000003 /* Products */ = {
+			isa = PBXGroup;
+			children = (AA0000000000000000000020 /* HoverCue.app */, AA0000000000000000000021 /* LocalDualCaptionTests.xctest */);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AA0000000000000000000010 /* LocalDualCaption */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AA0000000000000000000090 /* Build configuration list */;
+			buildPhases = (AA0000000000000000000050 /* Sources */, AA0000000000000000000040 /* Frameworks */, AA0000000000000000000060 /* Resources */);
+			buildRules = ();
+			dependencies = ();
+			fileSystemSynchronizedGroups = (AA0000000000000000000030 /* LocalDualCaption */);
+			name = LocalDualCaption;
+			productName = HoverCue;
+			productReference = AA0000000000000000000020 /* HoverCue.app */;
+			productType = "com.apple.product-type.application";
+		};
+		AA0000000000000000000011 /* LocalDualCaptionTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AA0000000000000000000091 /* Build configuration list */;
+			buildPhases = (AA0000000000000000000051 /* Sources */, AA0000000000000000000041 /* Frameworks */, AA0000000000000000000061 /* Resources */);
+			buildRules = ();
+			dependencies = (AA0000000000000000000100 /* PBXTargetDependency */);
+			fileSystemSynchronizedGroups = (AA0000000000000000000031 /* LocalDualCaptionTests */);
+			name = LocalDualCaptionTests;
+			productName = LocalDualCaptionTests;
+			productReference = AA0000000000000000000021 /* LocalDualCaptionTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AA0000000000000000000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {BuildIndependentTargetsInParallel = 1; LastSwiftUpdateCheck = 2660; LastUpgradeCheck = 2660; TargetAttributes = {AA0000000000000000000010 = {CreatedOnToolsVersion = 26.0;}; AA0000000000000000000011 = {CreatedOnToolsVersion = 26.0; TestTargetID = AA0000000000000000000010;};};};
+			buildConfigurationList = AA0000000000000000000080 /* Build configuration list */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (en, Base, "zh-Hans", "zh-Hant", de, es, fr, it, ja, ko, pt);
+			mainGroup = AA0000000000000000000002;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = AA0000000000000000000003 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (AA0000000000000000000010 /* LocalDualCaption */, AA0000000000000000000011 /* LocalDualCaptionTests */);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AA0000000000000000000060 /* Resources */ = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (AA0000000000000000000300 /* OverlayPreviewLandscape.png in Resources */,); runOnlyForDeploymentPostprocessing = 0; };
+		AA0000000000000000000061 /* Resources */ = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AA0000000000000000000050 /* Sources */ = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+		AA0000000000000000000051 /* Sources */ = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AA0000000000000000000100 /* PBXTargetDependency */ = {isa = PBXTargetDependency; target = AA0000000000000000000010 /* LocalDualCaption */; targetProxy = AA0000000000000000000101 /* PBXContainerItemProxy */; };
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		AA0000000000000000000200 /* Debug */ = {isa = XCBuildConfiguration; buildSettings = {ALWAYS_SEARCH_USER_PATHS = NO; CLANG_ENABLE_MODULES = YES; CLANG_ENABLE_OBJC_ARC = YES; COPY_PHASE_STRIP = NO; DEBUG_INFORMATION_FORMAT = dwarf; ENABLE_STRICT_OBJC_MSGSEND = YES; GCC_C_LANGUAGE_STANDARD = gnu17; GCC_OPTIMIZATION_LEVEL = 0; GCC_PREPROCESSOR_DEFINITIONS = ("DEBUG=1", "$(inherited)"); MACOSX_DEPLOYMENT_TARGET = 26.0; ONLY_ACTIVE_ARCH = YES; SDKROOT = macosx; SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)"; SWIFT_OPTIMIZATION_LEVEL = "-Onone"; } ; name = Debug; };
+		AA0000000000000000000201 /* Release */ = {isa = XCBuildConfiguration; buildSettings = {ALWAYS_SEARCH_USER_PATHS = NO; CLANG_ENABLE_MODULES = YES; CLANG_ENABLE_OBJC_ARC = YES; COPY_PHASE_STRIP = YES; DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym"; ENABLE_NS_ASSERTIONS = NO; ENABLE_STRICT_OBJC_MSGSEND = YES; GCC_C_LANGUAGE_STANDARD = gnu17; MACOSX_DEPLOYMENT_TARGET = 26.0; SDKROOT = macosx; SWIFT_COMPILATION_MODE = wholemodule; SWIFT_OPTIMIZATION_LEVEL = "-O"; VALIDATE_PRODUCT = YES; }; name = Release; };
+		AA0000000000000000000210 /* Debug */ = {isa = XCBuildConfiguration; buildSettings = {ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; CODE_SIGN_ENTITLEMENTS = Config/LocalDualCaption.entitlements; CODE_SIGN_IDENTITY = "-"; CODE_SIGN_STYLE = Manual; COMBINE_HIDPI_IMAGES = YES; CURRENT_PROJECT_VERSION = 29; ENABLE_APP_SANDBOX = YES; ENABLE_HARDENED_RUNTIME = YES; ENABLE_TESTABILITY = YES; GENERATE_INFOPLIST_FILE = NO; INFOPLIST_FILE = Config/Info.plist; INFOPLIST_KEY_CFBundleDisplayName = HoverCue; INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities"; INFOPLIST_KEY_NSMicrophoneUsageDescription = "HoverCue uses a microphone only after you select a microphone source or explicitly allow it. Audio is never saved or uploaded. Text history is optional and off by default."; INFOPLIST_KEY_NSScreenCaptureUsageDescription = "HoverCue reads system audio only, without capturing screen images. Audio is never saved or uploaded. Text history is optional and off by default."; INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "HoverCue uses on-device speech recognition for captions. Audio is never saved or uploaded. Text history is optional and off by default."; LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks"; MARKETING_VERSION = 1.0; PRODUCT_BUNDLE_IDENTIFIER = com.wenyugao.hovercue; PRODUCT_MODULE_NAME = LocalDualCaption; PRODUCT_NAME = HoverCue; REGISTER_APP_GROUPS = NO; SWIFT_EMIT_LOC_STRINGS = YES; SWIFT_STRICT_CONCURRENCY = complete; SWIFT_VERSION = 6.0; }; name = Debug; };
+		AA0000000000000000000211 /* Release */ = {isa = XCBuildConfiguration; buildSettings = {ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; CLANG_COVERAGE_MAPPING = NO; CODE_SIGN_ENTITLEMENTS = Config/LocalDualCaption.entitlements; CODE_SIGN_INJECT_BASE_ENTITLEMENTS = NO; CODE_SIGN_STYLE = Automatic; COMBINE_HIDPI_IMAGES = YES; CURRENT_PROJECT_VERSION = 29; ENABLE_APP_SANDBOX = YES; ENABLE_CODE_COVERAGE = NO; ENABLE_HARDENED_RUNTIME = YES; GENERATE_INFOPLIST_FILE = NO; INFOPLIST_FILE = Config/Info.plist; INFOPLIST_KEY_CFBundleDisplayName = HoverCue; INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities"; INFOPLIST_KEY_NSMicrophoneUsageDescription = "HoverCue uses a microphone only after you select a microphone source or explicitly allow it. Audio is never saved or uploaded. Text history is optional and off by default."; INFOPLIST_KEY_NSScreenCaptureUsageDescription = "HoverCue reads system audio only, without capturing screen images. Audio is never saved or uploaded. Text history is optional and off by default."; INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "HoverCue uses on-device speech recognition for captions. Audio is never saved or uploaded. Text history is optional and off by default."; LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks"; MARKETING_VERSION = 1.0; PRODUCT_BUNDLE_IDENTIFIER = com.wenyugao.hovercue; PRODUCT_MODULE_NAME = LocalDualCaption; PRODUCT_NAME = HoverCue; REGISTER_APP_GROUPS = NO; SWIFT_EMIT_LOC_STRINGS = YES; SWIFT_STRICT_CONCURRENCY = complete; SWIFT_VERSION = 6.0; }; name = Release; };
+		AA0000000000000000000220 /* Debug */ = {isa = XCBuildConfiguration; buildSettings = {BUNDLE_LOADER = "$(TEST_HOST)"; CODE_SIGN_IDENTITY = "-"; CODE_SIGN_STYLE = Manual; GENERATE_INFOPLIST_FILE = YES; MACOSX_DEPLOYMENT_TARGET = 26.0; PRODUCT_BUNDLE_IDENTIFIER = com.wenyugao.hovercue.tests; PRODUCT_NAME = "$(TARGET_NAME)"; SWIFT_STRICT_CONCURRENCY = complete; SWIFT_VERSION = 6.0; TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HoverCue.app/Contents/MacOS/HoverCue"; }; name = Debug; };
+		AA0000000000000000000221 /* Release */ = {isa = XCBuildConfiguration; buildSettings = {BUNDLE_LOADER = "$(TEST_HOST)"; CODE_SIGN_IDENTITY = "-"; CODE_SIGN_STYLE = Manual; GENERATE_INFOPLIST_FILE = YES; MACOSX_DEPLOYMENT_TARGET = 26.0; PRODUCT_BUNDLE_IDENTIFIER = com.wenyugao.hovercue.tests; PRODUCT_NAME = "$(TARGET_NAME)"; SWIFT_STRICT_CONCURRENCY = complete; SWIFT_VERSION = 6.0; TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HoverCue.app/Contents/MacOS/HoverCue"; }; name = Release; };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AA0000000000000000000080 /* Build configuration list */ = {isa = XCConfigurationList; buildConfigurations = (AA0000000000000000000200 /* Debug */, AA0000000000000000000201 /* Release */); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		AA0000000000000000000090 /* Build configuration list */ = {isa = XCConfigurationList; buildConfigurations = (AA0000000000000000000210 /* Debug */, AA0000000000000000000211 /* Release */); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		AA0000000000000000000091 /* Build configuration list */ = {isa = XCConfigurationList; buildConfigurations = (AA0000000000000000000220 /* Debug */, AA0000000000000000000221 /* Release */); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+/* End XCConfigurationList section */
+	};
+	rootObject = AA0000000000000000000001 /* Project object */;
+}

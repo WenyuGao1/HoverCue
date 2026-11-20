@@ -1,0 +1,4 @@
+"CFBundleDisplayName" = "HoverCue";
+"NSSpeechRecognitionUsageDescription" = "HoverCue 使用设备端语音识别生成字幕。音频不保存、不上传；文字历史可选且默认关闭。";
+"NSScreenCaptureUsageDescription" = "HoverCue 只读取系统音频，不捕获屏幕画面。音频不保存、不上传；文字历史可选且默认关闭。";
+"NSMicrophoneUsageDescription" = "HoverCue 仅在你选择麦克风来源或主动允许后使用麦克风。音频不保存、不上传；文字历史可选且默认关闭。";

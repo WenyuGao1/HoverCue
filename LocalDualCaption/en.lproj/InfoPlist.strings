@@ -1,0 +1,4 @@
+"CFBundleDisplayName" = "HoverCue";
+"NSSpeechRecognitionUsageDescription" = "HoverCue uses on-device speech recognition for captions. Audio is never saved or uploaded. Text history is optional and off by default.";
+"NSScreenCaptureUsageDescription" = "HoverCue reads system audio only, without capturing screen images. Audio is never saved or uploaded. Text history is optional and off by default.";
+"NSMicrophoneUsageDescription" = "HoverCue uses a microphone only after you select a microphone source or explicitly allow it. Audio is never saved or uploaded. Text history is optional and off by default.";

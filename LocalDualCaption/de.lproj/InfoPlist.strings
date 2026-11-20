@@ -1,0 +1,4 @@
+"CFBundleDisplayName" = "HoverCue";
+"NSScreenCaptureUsageDescription" = "HoverCue liest nur Systemaudio, ohne Bildschirminhalte zu erfassen. Audio wird nie gespeichert oder hochgeladen. Textverlauf ist optional und standardmäßig aus.";
+"NSSpeechRecognitionUsageDescription" = "HoverCue nutzt lokale Spracherkennung für Untertitel. Audio wird nie gespeichert oder hochgeladen. Textverlauf ist optional und standardmäßig aus.";
+"NSMicrophoneUsageDescription" = "HoverCue verwendet das Mikrofon erst nach deiner Auswahl oder ausdrücklichen Erlaubnis. Audio wird nie gespeichert oder hochgeladen. Textverlauf ist optional und standardmäßig aus.";

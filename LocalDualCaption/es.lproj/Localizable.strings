@@ -1,0 +1,360 @@
+"After both selected models show “installed”, quit and reopen the app if macOS asks, turn off Wi‑Fi, play a video in the selected source language, select that application, and start captions." = "Cuando ambos modelos seleccionados aparezcan como «instalados», cierre y vuelva a abrir la app si macOS se lo pide. Desactive el Wi‑Fi, reproduzca un vídeo en el idioma de origen, seleccione esa aplicación e inicie los subtítulos.";
+"All System Audio" = "Todo el audio del sistema";
+
+"App language" = "Idioma de la app";
+"Application filters operate at the application-process level." = "Los filtros funcionan a nivel del proceso de cada aplicación.";
+"Audio source" = "Fuente de audio";
+"Captions" = "Subtítulos";
+"Capture" = "Captura";
+"checking" = "comprobando";
+"Dark" = "Oscuro";
+"denied" = "denegado";
+"downloadable" = "descargable";
+"downloading" = "descargando";
+"Error" = "Error";
+"error" = "error";
+"General" = "General";
+"Glass appearance" = "Apariencia del cristal";
+"Glass opacity" = "Opacidad del cristal";
+"granted" = "concedido";
+"Hide Overlay" = "Ocultar ventana flotante";
+"High quality" = "Alta calidad";
+"High Transparency" = "Alta transparencia";
+"installed" = "instalado";
+"Light" = "Claro";
+"Listening" = "Escuchando";
+"Live bilingual captions" = "Subtítulos bilingües en directo";
+"Low latency" = "Baja latencia";
+"Model changes apply when captions next start. High quality uses Apple Intelligence when available and may be slower." = "Los cambios de modelo se aplicarán al volver a iniciar los subtítulos. Alta calidad usa Apple Intelligence cuando está disponible y puede ser más lento.";
+"Move Overlay to Current Screen" = "Mover ventana flotante a la pantalla actual";
+"Move to Current Screen" = "Mover a la pantalla actual";
+"notDetermined" = "sin determinar";
+"Offline test" = "Prueba sin conexión";
+"On-device only" = "Solo en el dispositivo";
+"Open System Settings" = "Abrir Ajustes del Sistema";
+"Original caption color" = "Color del texto original";
+"Original caption font size" = "Tamaño del texto original";
+"Overlay" = "Ventana flotante";
+"Overlay Preview" = "Vista previa";
+"Permissions and offline models" = "Permisos y modelos sin conexión";
+"Prepare offline models" = "Preparar modelos sin conexión";
+"Prepare the selected source-language speech model first." = "Prepare primero el modelo de voz del idioma de origen seleccionado.";
+"Prepare the selected translation model first." = "Prepare primero el modelo de traducción seleccionado.";
+"Preparing" = "Preparando";
+"Private by design" = "Privacidad desde el diseño";
+"Terminology — one term per line" = "Terminología: un término por línea";
+"Quit" = "Salir";
+"Recognition and translation" = "Reconocimiento y traducción";
+"Recognizing" = "Reconociendo";
+"Refresh running applications" = "Actualizar aplicaciones en ejecución";
+"Refresh status" = "Actualizar estado";
+"Request speech permission" = "Solicitar permiso de reconocimiento de voz";
+"Request system-audio permission" = "Solicitar permiso de audio del sistema";
+"Restore default vocabulary" = "Restaurar vocabulario predeterminado";
+"restricted" = "restringido";
+"Screen & System Audio Recording" = "Grabación de pantalla y audio del sistema";
+"Screen & System Audio Recording permission is not granted." = "No se ha concedido el permiso de grabación de pantalla y audio del sistema.";
+"Selected translation model" = "Modelo de traducción seleccionado";
+"Settings" = "Ajustes";
+"Show Overlay" = "Mostrar ventana flotante";
+"Simplified" = "Simplificado";
+"Source Chinese script" = "Escritura china de origen";
+"Source and target languages must be different." = "Los idiomas de origen y destino deben ser diferentes.";
+"Source language" = "Idioma de origen";
+"Source speech model" = "Modelo de voz de origen";
+"Speech Recognition" = "Reconocimiento de voz";
+"Speech Recognition permission is not granted." = "No se ha concedido el permiso de reconocimiento de voz.";
+"Speech Recognition permission is required before the local model can be prepared." = "Se requiere el permiso de reconocimiento de voz antes de preparar el modelo local.";
+"Speech variety" = "Variante regional";
+"Start Captions" = "Iniciar subtítulos";
+"Status:" = "Estado:";
+"Stop Captions" = "Detener subtítulos";
+"Stopped" = "Detenido";
+"Swap languages" = "Intercambiar idiomas";
+"Target Chinese script" = "Escritura china de destino";
+"Target language" = "Idioma de destino";
+"The selected language pair is not supported by the on-device translation model." = "El modelo de traducción del dispositivo no admite el par de idiomas seleccionado.";
+"The selected offline translation model is not prepared." = "El modelo de traducción sin conexión seleccionado no está preparado.";
+"The system could not normalize the Chinese translation." = "El sistema no pudo normalizar la traducción china.";
+"The system translation returned an unexpected target language." = "La traducción del sistema devolvió un idioma de destino inesperado.";
+"Traditional" = "Tradicional";
+"Translated caption color" = "Color de la traducción";
+"Translated caption font size" = "Tamaño de la traducción";
+"Translating" = "Traduciendo";
+"Translation model" = "Modelo de traducción";
+"Translation unavailable" = "Traducción no disponible";
+"Typography" = "Tipografía";
+"unsupported" = "no compatible";
+"Waiting for source-language audio…" = "Esperando audio en el idioma de origen…";
+"Window height" = "Altura de la ventana";
+"Window width" = "Anchura de la ventana";
+"Caption display" = "Visualización de subtítulos";
+"Transcription and translation" = "Transcripción y traducción";
+"Transcription only" = "Solo transcripción";
+"Translation only" = "Solo traducción";
+"Percentage unavailable from macOS" = "macOS no proporciona el porcentaje";
+"⌥⌘C Start/Stop  ·  ⌥⌘O Overlay" = "⌥⌘C Iniciar/Detener  ·  ⌥⌘O Ventana";
+"Permissions" = "Permisos";
+"Offline models" = "Modelos sin conexión";
+"Granted" = "Concedido";
+"Allow" = "Permitir";
+"Permission Required" = "Permiso necesario";
+"Open Settings" = "Abrir ajustes";
+"Speech model" = "Modelo de voz";
+"Installed" = "Instalado";
+"Not installed" = "No instalado";
+"Checking" = "Comprobando";
+"Downloading" = "Descargando";
+"Unsupported" = "No compatible";
+"Download failed" = "Error de descarga";
+"Download required models" = "Descargar modelos necesarios";
+"Try Again" = "Intentar de nuevo";
+"Ready for offline captions" = "Listo para subtítulos sin conexión";
+"How to test offline" = "Cómo probar sin conexión";
+"Languages" = "Idiomas";
+"Speech region" = "Región de voz";
+"Overlay appearance" = "Apariencia de la ventana";
+"Appearance" = "Apariencia";
+"About terminology" = "Acerca de la terminología";
+"Add names, acronyms, product names, and uncommon terms—one per line." = "Añade nombres, siglas, nombres de productos y términos poco comunes, uno por línea.";
+"When captions next start, up to 200 entries are provided to on-device speech recognition as contextual hints." = "La próxima vez que se inicien los subtítulos, se proporcionarán hasta 200 entradas al reconocimiento de voz del dispositivo como pistas contextuales.";
+"These hints may improve source recognition, but they do not force replacements or control translation. Entries stay on this Mac." = "Estas pistas pueden mejorar el reconocimiento, pero no fuerzan sustituciones ni controlan la traducción. Las entradas permanecen en este Mac.";
+"System audio only. No screen images or microphone. Nothing is uploaded, recorded, or saved." = "Solo audio del sistema. Sin imágenes de pantalla ni micrófono. Nada se sube, graba ni guarda.";
+"Live captions and translations may contain errors. For important content, verify against the original audio." = "Los subtítulos y las traducciones en directo pueden contener errores. Para contenido importante, compruebe el audio original.";
+"macOS groups system-audio access under “Screen & System Audio Recording”. HoverCue registers audio only." = "macOS agrupa el acceso al audio del sistema en «Grabación de pantalla y audio del sistema». HoverCue registra solo audio.";
+"Model downloads are managed by macOS and may require internet the first time. HoverCue itself has no network-client permission." = "macOS gestiona las descargas de modelos y puede necesitar internet la primera vez. HoverCue no tiene permiso de cliente de red.";
+"If macOS asks you to restart after a permission change, quit and reopen HoverCue." = "Si macOS solicita reiniciar tras cambiar un permiso, cierre y vuelva a abrir HoverCue.";
+"Privacy Policy" = "Política de privacidad";
+"Done" = "Hecho";
+
+"HoverCue processes system audio, speech recognition, captions, and translations only on this Mac. Live content stays in memory." = "HoverCue procesa el audio del sistema, el reconocimiento de voz, los subtítulos y las traducciones solo en este Mac. El contenido en directo permanece en la memoria.";
+"System audio only" = "Solo audio del sistema";
+"System Default Microphone" = "Micrófono predeterminado del sistema";
+"Read Translation Automatically" = "Leer traducción automáticamente";
+"Automatic Reading On" = "Lectura automática activada";
+"Reads each stable translation through the current system audio output." = "Lee cada traducción estable mediante la salida de audio actual del sistema.";
+"Bluetooth or wired headphones are recommended when using microphone input and automatic reading." = "Se recomiendan auriculares Bluetooth o con cable al usar el micrófono y la lectura automática.";
+
+"Microphone access is requested only after you select a microphone source or explicitly allow it." = "El acceso al micrófono solo se solicita después de seleccionar una fuente de micrófono o permitirlo expresamente.";
+"Microphone" = "Micrófono";
+"Microphone permission is not granted." = "No se ha concedido el permiso del micrófono.";
+"No installed system voice is available for the target language." = "No hay ninguna voz del sistema instalada para el idioma de destino.";
+"The system audio input changed. Stop and restart captions to use the current microphone." = "La entrada de audio del sistema ha cambiado. Detén y reinicia los subtítulos para usar el micrófono actual.";
+"No system-default microphone is available." = "No hay ningún micrófono predeterminado del sistema disponible.";
+
+"User-selected audio source" = "Fuente de audio elegida por el usuario";
+"HoverCue processes system audio or a selected microphone only when you select that source. It does not capture screen pixels, screenshots, or video." = "HoverCue procesa el audio del sistema o un micrófono seleccionado solo cuando eliges esa fuente. No captura píxeles de pantalla, capturas ni vídeo.";
+"HoverCue captures system audio output only. It does not capture screen pixels, screenshots, video, or microphone input." = "HoverCue captura solo la salida de audio del sistema. No captura píxeles de pantalla, capturas de pantalla, vídeo ni entrada de micrófono.";
+
+"No accounts or tracking" = "Sin cuentas ni seguimiento";
+"HoverCue has no accounts, analytics, advertising, or tracking." = "HoverCue no incluye cuentas, analíticas, publicidad ni seguimiento.";
+"Settings stored locally" = "Ajustes almacenados localmente";
+
+"Apple-managed language resources" = "Recursos lingüísticos gestionados por Apple";
+"Speech and translation resources are managed by Apple and may be downloaded by macOS on demand. HoverCue has no network-client permission." = "Los recursos de voz y traducción están gestionados por Apple y macOS puede descargarlos cuando sean necesarios. HoverCue no tiene permiso de cliente de red.";
+"Playback voice" = "Voz de reproducción";
+"No installed voice" = "No hay ninguna voz instalada";
+"Premium" = "Premium";
+"Enhanced" = "Mejorada";
+"Standard" = "Estándar";
+"Each timbre uses its highest-quality installed version for the target language." = "Cada timbre utiliza su versión instalada de mayor calidad para el idioma de destino.";
+"Reads every stable translation in order and gradually speeds up when playback falls behind." = "Lee cada traducción estable en orden y acelera gradualmente cuando la reproducción se retrasa.";
+"Complete reading never silently skips queued translations. Playback may remain behind the original audio." = "La lectura completa nunca omite traducciones en cola sin avisar. La reproducción puede quedar por detrás del audio original.";
+"Microphones" = "Micrófonos";
+"System Audio" = "Audio del sistema";
+"Selected Microphone (Unavailable)" = "Micrófono seleccionado (no disponible)";
+"Refresh audio sources" = "Actualizar fuentes de audio";
+"The selected audio source is no longer available." = "La fuente de audio seleccionada ya no está disponible.";
+"The selected microphone is no longer available." = "El micrófono seleccionado ya no está disponible.";
+"No microphone input is available." = "No hay ninguna entrada de micrófono disponible.";
+"Unable to read available microphones." = "No se han podido leer los micrófonos disponibles.";
+
+"Live captions" = "Subtítulos en directo";
+"Navigation" = "Navegación";
+"Audio and languages" = "Audio e idiomas";
+"Reading and voice" = "Lectura y voz";
+
+/* Sidebar navigation and main-window accent */
+"Caption appearance" = "Aspecto de subtítulos";
+"Terminology" = "Terminología";
+"Choose your audio and languages, then start captions." = "Elige el audio y los idiomas e inicia los subtítulos.";
+"Adjust the look of your floating captions." = "Ajusta el aspecto de los subtítulos flotantes.";
+"Choose how translated captions are read aloud." = "Elige cómo se leen las traducciones en voz alta.";
+"Help speech recognition with names and specialist terms." = "Ayuda al reconocimiento de voz con nombres y términos especializados.";
+"Personalize HoverCue and manage on-device resources." = "Personaliza HoverCue y gestiona los recursos locales.";
+"Menu theme color" = "Color del menú";
+"Applies to menus and controls. Caption colors stay unchanged." = "Se aplica a menús y controles. Los colores de subtítulos no cambian.";
+"Follow System" = "Seguir el sistema";
+"Blue" = "Azul";
+"Purple" = "Morado";
+"Pink" = "Rosa";
+"Red" = "Rojo";
+"Orange" = "Naranja";
+"Yellow" = "Amarillo";
+"Green" = "Verde";
+"Graphite" = "Grafito";
+
+"Permission required" = "Se requiere permiso";
+"Go to Settings" = "Ir a ajustes";
+
+"Light Pink" = "Rosa claro";
+
+"Examples for %@ — one term per line" = "Ejemplos para %@: un término por línea";
+
+"Keep original wording" = "Conservar el original";
+
+"Specify translations" = "Especificar traducciones";
+
+"Keep terms unchanged or choose their translations." = "Conserva los términos originales o elige sus traducciones.";
+
+"Rules apply to this language direction when captions next start." = "Estas reglas se aplican a esta dirección de idiomas al volver a iniciar los subtítulos.";
+
+"Specified translations take priority when the same term appears in both boxes." = "Si un término aparece en ambos cuadros, la traducción especificada tiene prioridad.";
+
+"Matches ignore capitalization and prefer longer phrases. Common words may have different meanings in context." = "No se distingue entre mayúsculas y minúsculas; se priorizan las frases más largas. Las palabras comunes pueden tener distintos sentidos según el contexto.";
+
+"Up to 200 entries per box; original terms up to 120 characters, translations up to 240." = "Hasta 200 entradas por cuadro; términos originales de hasta 120 caracteres y traducciones de hasta 240.";
+
+"Rules stay on this Mac. Examples are not saved as rules." = "Las reglas permanecen en este Mac. Los ejemplos no se guardan como reglas.";
+
+"One term per line. Matching terms stay unchanged in the translation." = "Un término por línea. Los términos coincidentes se conservan en la traducción.";
+
+"One rule per line: original -> translation." = "Una regla por línea: original -> traducción.";
+
+"Previous recognition hints" = "Pistas de reconocimiento anteriores";
+
+"These entries only help recognition and do not control translation." = "Estas entradas solo ayudan al reconocimiento y no controlan la traducción.";
+
+"Invalid or duplicate entries on lines %@ are not applied." = "Las entradas no válidas o duplicadas en las líneas %@ no se aplican.";
+
+"Examples: %@ -> %@" = "Ejemplos: %@ -> %@";
+
+"Translation terminology requires macOS 26.4 or later." = "Las reglas terminológicas requieren macOS 26.4 o posterior.";
+
+"The translation model did not preserve a terminology rule. This translation was not displayed." = "El modelo no conservó una regla terminológica. Esta traducción no se mostró.";
+
+"This sentence exceeded the terminology safety limit. This translation was not displayed." = "Esta frase superó el límite de seguridad terminológico. Esta traducción no se mostró.";
+
+/* Audio source guidance */
+"Microphone: Picks up speech and surrounding sounds through the selected microphone." = "Micrófono: Capta la voz y los sonidos del entorno a través del micrófono seleccionado.";
+"System audio: Captures sound directly from apps on your Mac, without using the microphone." = "Audio del sistema: Captura el sonido directamente de las apps de tu Mac, sin usar el micrófono.";
+
+/* Audio source organization and per-language voice preferences. */
+"Other audio sources" = "Otras fuentes de audio";
+"Selected Application (Unavailable)" = "Aplicación seleccionada (no disponible)";
+"%@ (Unavailable)" = "%@ (no disponible)";
+"Your preferred voice is unavailable. Another installed voice is being used." = "Tu voz preferida no está disponible. Se está usando otra voz instalada.";
+
+/* Optional local translation history — Build 18. */
+"Translation history" = "Historial de traducción";
+"Save translation history" = "Guardar historial de traducción";
+"History ready for new captions" = "Historial listo para nuevos subtítulos";
+"Saving text history" = "Guardando historial de texto";
+"Enable translation history?" = "¿Activar el historial de traducción?";
+"Everyone informed and agreed — enable" = "Todos informados y de acuerdo: activar";
+"Review, export, or delete text saved with permission." = "Consulta, exporta o elimina textos guardados con permiso.";
+"Local text history" = "Historial de texto local";
+"No translation history" = "Sin historial de traducción";
+"Session" = "Sesión";
+"Choose a session" = "Elegir una sesión";
+"Saved sessions" = "Sesiones guardadas";
+"Export TXT" = "Exportar TXT";
+"Delete" = "Eliminar";
+"Clear all" = "Borrar todo";
+"Dismiss" = "Cerrar aviso";
+"Cancel" = "Cancelar";
+"Translation failed" = "Error de traducción";
+"Translation incomplete" = "Traducción incompleta";
+"Previous page" = "Página anterior";
+"Next page" = "Página siguiente";
+"Delete this history?" = "¿Eliminar este historial?";
+"Clear all history?" = "¿Borrar todo el historial?";
+"Original" = "Original";
+"Translation" = "Traducción";
+"On-device processing" = "Procesamiento en el dispositivo";
+"Optional local text history" = "Historial de texto local opcional";
+"Before recording or exporting, make sure everyone involved knows and agrees. History is saved on this Mac." = "Antes de guardar o exportar, asegúrate de que todas las personas implicadas lo saben y aceptan. El historial se guarda en este Mac.";
+"Off by default on every app launch. Turning it off keeps existing history; audio is never saved." = "Desactivado al abrir la app. Desactivarlo conserva el historial existente; nunca se guarda audio.";
+"Confirm that everyone involved knows and agrees to recording and export. Only new stable sentences will be saved. Audio is never saved." = "Confirma que todas las personas implicadas conocen y aceptan el registro y la exportación. Solo se guardan frases nuevas y estables. Nunca se guarda audio.";
+"Enable history after obtaining permission, then start captions. Existing history remains available after recording is turned off." = "Activa el historial tras obtener permiso y luego inicia los subtítulos. El historial existente sigue disponible al desactivar el registro.";
+"This cannot be undone. Exported files are not deleted." = "Esta acción no se puede deshacer. No se eliminan los archivos exportados.";
+"Recording will stop and all saved sessions will be deleted. Exported files are not deleted." = "Se detendrá el registro y se eliminarán todas las sesiones guardadas. Los archivos exportados se conservan.";
+"Deleting history does not remove files you already exported. Storage is limited to 100 MB and 1,000 sessions." = "Eliminar el historial no borra los archivos exportados. El límite de almacenamiento es de 100 MB y 1.000 sesiones.";
+"History could not be saved. Recording has stopped; live captions continue." = "No se pudo guardar el historial. El registro se ha detenido; los subtítulos continúan.";
+"History reached its safety limit. Recording has stopped. Delete older history to free space." = "El historial alcanzó su límite de seguridad. El registro se detuvo. Elimina historial antiguo para liberar espacio.";
+"A history entry exceeded its safety limit. Recording has stopped." = "Una entrada superó su límite de seguridad. El registro se detuvo.";
+"History could not be opened. Existing files have been kept." = "No se pudo abrir el historial. Se conservan los archivos existentes.";
+"History could not be deleted. Please try again." = "No se pudo eliminar el historial. Inténtalo de nuevo.";
+"History exported. Files saved to a synced folder may be synced by your system." = "Historial exportado. El sistema puede sincronizar archivos guardados en carpetas sincronizadas.";
+"History could not be exported. Your existing file has not been replaced." = "No se pudo exportar el historial. No se ha reemplazado el archivo existente.";
+"Audio, recognition, and translation stay on this Mac. Text history is off by default and can be saved and exported only when you enable it." = "El audio, el reconocimiento y la traducción se procesan en este Mac. El historial está desactivado por defecto y solo se guarda y exporta si lo activas.";
+"HoverCue processes audio, recognition, translation, and optional spoken translation on this Mac. Audio is never saved or uploaded." = "HoverCue procesa audio, reconocimiento, traducción y lectura opcional en este Mac. Nunca se guarda ni se sube audio.";
+"Text history is off at every app launch. After you confirm everyone is informed and agrees, new stable original text and translations can be saved locally and exported manually. You can delete saved history at any time." = "El historial está desactivado en cada inicio. Tras confirmar que todos lo saben y aceptan, puedes guardar nuevos textos estables y sus traducciones localmente y exportarlos manualmente. Puedes eliminar el historial cuando quieras.";
+"App settings and terminology are saved in UserDefaults. Optional text history is stored separately in the app's local container, excluded from automatic backup. Exports go only to the location you choose; synced folders may sync them." = "Los ajustes y términos se guardan en UserDefaults. El historial opcional se almacena aparte en el contenedor local de la app, excluido de copias automáticas. Las exportaciones van al destino elegido; las carpetas sincronizadas pueden sincronizarlas.";
+"No screen images are captured." = "No se capturan imágenes de pantalla.";
+
+/* Automatic on-device history summaries. */
+"Summary queued. It will run when live captions are stopped." = "Resumen en cola. Se creará cuando se detengan los subtítulos en directo.";
+"Creating a title and bilingual summary on this Mac…" = "Creando un título y un resumen bilingüe en este Mac…";
+"AI-generated summary. Check important details against the full transcript." = "Resumen generado por IA. Comprueba los detalles importantes en la transcripción completa.";
+"This Mac does not support the local Apple Intelligence model. Your full history is available." = "Este Mac no admite el modelo local de Apple Intelligence. El historial completo está disponible.";
+"Enable Apple Intelligence in System Settings to create local summaries. Your full history is available." = "Activa Apple Intelligence en Ajustes del Sistema para crear resúmenes locales. El historial completo está disponible.";
+"Apple’s local model is not ready. Summaries will retry when it becomes available." = "El modelo local de Apple aún no está listo. Los resúmenes se reintentarán cuando esté disponible.";
+"Apple’s local model does not support this session’s languages. Your full history is available." = "El modelo local de Apple no admite los idiomas de esta sesión. El historial completo está disponible.";
+"A summary could not be created. It will retry after the next app launch. Your full history is available." = "No se pudo crear el resumen. Se reintentará al abrir la app de nuevo. El historial completo está disponible.";
+"There is not enough meaningful text to summarize. Your full history is available." = "No hay suficiente texto significativo para resumir. El historial completo está disponible.";
+"AI summary" = "Resumen de IA";
+"Full transcript" = "Transcripción completa";
+"Some entries are incomplete. The summary uses only available text." = "Algunas entradas están incompletas. El resumen solo usa el texto disponible.";
+"A bilingual AI summary is not available yet. The full transcript follows." = "El resumen bilingüe de IA aún no está disponible. A continuación aparece la transcripción completa.";
+"When history is enabled, titles and bilingual summaries are created automatically on this Mac after captions stop, when Apple Intelligence is available." = "Con el historial activado, los títulos y resúmenes bilingües se crean automáticamente en este Mac al detener los subtítulos, si Apple Intelligence está disponible.";
+"Confirm that everyone involved knows and agrees to local text recording, AI summaries and export. Only new stable sentences will be saved. Audio is never saved." = "Confirma que todos los participantes conocen y aceptan el registro local de texto, los resúmenes de IA y la exportación. Solo se guardarán nuevas frases estables. Nunca se guarda audio.";
+
+"The AI summary did not match the selected languages and was not displayed. It will retry after the next app launch. Your full history is available." = "El resumen de IA no coincide con los idiomas seleccionados y no se muestra. Se reintentará al abrir la app de nuevo. El historial completo está disponible.";
+
+"Concise" = "Breve";
+"Detailed" = "Detallado";
+"Main topic and core conclusions, in a short summary." = "Un resumen breve del tema principal y las conclusiones esenciales.";
+"Overview, key points, reasons, decisions and open questions." = "Panorama general, puntos clave, motivos, decisiones y preguntas pendientes.";
+"More context by topic, including stated reasons, differences, figures and next steps." = "Más contexto por tema, con los motivos, diferencias, cifras y próximos pasos mencionados.";
+"Default summary detail" = "Detalle predeterminado del resumen";
+"Summary detail" = "Detalle del resumen";
+"Applies to new sessions. Each saved session can use a different summary detail." = "Se aplica a sesiones nuevas. Cada sesión guardada puede usar un nivel de detalle distinto.";
+"Legacy summary" = "Resumen anterior";
+"This summary was created by an earlier version. Choose a detail level to create a new one from the full transcript." = "Este resumen se creó con una versión anterior. Elige un nivel de detalle para crear uno nuevo a partir de la transcripción completa.";
+"Showing saved summary:" = "Resumen guardado que se muestra:";
+"The summary level could not be changed. Existing summaries have been kept." = "No se pudo cambiar el nivel de detalle. Se han conservado los resúmenes existentes.";
+"The selected summary is not ready. The full transcript follows." = "El resumen seleccionado aún no está listo. A continuación se incluye la transcripción completa.";
+
+/* Summary source and local processing. */
+"Summaries are generated on this Mac using Apple Intelligence. Bilingual content is processed locally. Check important details against the full transcript." = "Los resúmenes se generan en este Mac con Apple Intelligence. El contenido bilingüe se procesa localmente. Comprueba los detalles importantes en la transcripción completa.";
+
+"Before enabling history, make sure everyone involved knows and agrees." = "Antes de activar el historial, asegúrate de que todas las personas participantes estén informadas y den su consentimiento.";
+"Learn about history and privacy" = "Información sobre el historial y la privacidad";
+"History is saved on this Mac. Exports go only to the location you choose." = "El historial se guarda en este Mac. Las exportaciones se guardan únicamente en la ubicación que elijas.";
+"Generated with Apple Intelligence · On-device" = "Generado con Apple Intelligence · Procesado en el dispositivo";
+"About AI summaries" = "Acerca de los resúmenes de IA";
+
+"Contextual enhancement" = "Con contexto";
+"Contextual enhancement requires macOS 26.4 or later. System translation will be used." = "La traducción con contexto requiere macOS 26.4 o posterior. Se usará la traducción del sistema.";
+"This Mac cannot run contextual enhancement. System translation will be used." = "Este Mac no admite la traducción con contexto. Se usará la traducción del sistema.";
+"Enable Apple Intelligence in System Settings for contextual enhancement. System translation will be used." = "Activa Apple Intelligence en Ajustes del Sistema para traducir con contexto. Mientras tanto, se usará la traducción del sistema.";
+"Apple’s local model is not ready for contextual enhancement. System translation will be used." = "El modelo local de Apple aún no está listo para traducir con contexto. Se usará la traducción del sistema.";
+"Apple’s local model does not support this language pair for contextual enhancement. System translation will be used." = "El modelo local de Apple no admite este par de idiomas para traducir con contexto. Se usará la traducción del sistema.";
+"Contextual enhancement · On-device" = "Con contexto · En el dispositivo";
+"Contextual enhancement paused for this session; using system translation." = "Traducción con contexto pausada en esta sesión; se usa la traducción del sistema.";
+"Using system translation for this sentence." = "Esta frase se está traduciendo con la traducción del sistema.";
+"Contextual enhancement uses Apple Intelligence on this Mac to translate each sentence with up to four recent source sentences. It may be slower; system translation is used if it is unavailable, times out, or falls behind." = "La traducción con contexto usa Apple Intelligence en este Mac y hasta cuatro frases originales recientes como referencia. Puede ser más lenta; se usa la traducción del sistema si el modelo no está disponible, agota el tiempo o acumula retraso.";
+"Context is held only in bounded memory and cleared when captions stop. It does not enable history or save audio. Only the final translation is displayed, read aloud, and saved when history is enabled." = "El contexto solo se mantiene en memoria limitada y se borra al detener los subtítulos. No activa el historial ni guarda audio. Solo se muestra y se lee la traducción final, y se guarda si el historial está activado.";
+"Contextual enhancement unavailable; using system translation." = "Traducción con contexto no disponible; se usa la traducción del sistema.";
+
+/* Description of the selected translation mode. */
+"Uses Apple system translation, prioritizing response speed." = "Utiliza la traducción del sistema de Apple, priorizando la rapidez de respuesta.";
+"Uses Apple system high-quality translation, with Apple Intelligence when available." = "Utiliza la traducción de alta calidad del sistema de Apple, con Apple Intelligence cuando está disponible.";
+"Uses Apple Intelligence on this Mac to translate with recent source context." = "Utiliza Apple Intelligence en este Mac para traducir con el contexto del texto original reciente.";
+
+"Back to latest" = "Volver a lo último";
+
+"Recent captions" = "Subtítulos recientes";
+
+"Model changes apply when captions next start." = "Los cambios de modelo se aplicarán la próxima vez que inicies los subtítulos.";

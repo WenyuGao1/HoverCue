@@ -1,0 +1,45 @@
+.DS_Store
+
+# Xcode user state and build artifacts
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+dist/
+*.xcarchive
+*.xcresult
+*.dSYM
+*.profraw
+*.dmg
+*.pkg
+
+# Local signing material and settings
+*.cer
+*.p12
+*.p8
+*.pem
+*.key
+*.mobileprovision
+*.provisionprofile
+.env
+.env.*
+
+# Local audio, exports, and history databases
+*.wav
+*.aiff
+*.aif
+*.m4a
+*.mp3
+*.aac
+*.caf
+*.flac
+*.ogg
+*.mp4
+*.mov
+*.sqlite
+*.sqlite3
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite3-shm
+*.sqlite3-wal
+*.db
